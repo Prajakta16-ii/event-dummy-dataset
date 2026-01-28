@@ -1,0 +1,1001 @@
+job_id,college_id,job_name,job_type,company_name,job_location,salary,apply_by_date,job_status
+1,101,Demigod,Internship,TCS,SCOE Campus,"₹ 56,546",2026-05-17 01:03:00.718430,Open
+2,104,Software Engineer,Internship,Google India,"Austin, TX",₹ 4 LPA,2026-05-14 01:03:00.718430,Open
+3,102,Software Engineer II,Internship,TechCorp Pvt Ltd,Pune,₹ 6 LPA,2025-12-30 01:03:00.718430,Expired
+4,102,COO,Internship,TechCorp Pvt Ltd,Narniwadi,₹ 6 LPA,2026-04-08 01:03:00.718430,Open
+5,103,COO,Full-time,Creative Studios Inc,"San Francisco, CA","₹ 20,000",2026-02-26 01:03:00.718430,Open
+6,103,UX Design Internship,Internship,Demo,"Austin, TX",₹ 4 LPA,2026-05-18 01:03:00.718430,Open
+7,104,Demigod,Internship,Creative Studios Inc,Narniwadi,₹ 6 LPA,2026-01-18 01:03:00.718430,Expired
+8,104,COO,Internship,TCS,"Austin, TX","₹ 20,000",2026-03-22 01:03:00.718430,Open
+9,101,Software Engineer II,Internship,Creative Studios Inc,"Austin, TX","₹ 20,000",2026-05-22 01:03:00.718430,Open
+10,102,Demigod,Internship,Demo,"Austin, TX",₹ 6 LPA,2026-01-09 01:03:00.718430,Expired
+11,104,Software Engineer,Full-time,TCS,Narniwadi,"₹ 20,000",2026-03-19 01:03:00.718430,Open
+12,102,COO,Full-time,Demo,"San Francisco, CA",₹ 6 LPA,2026-03-14 01:03:00.718430,Open
+13,102,Software Engineer,Full-time,Next Electronics,"San Francisco, CA",₹ 6 LPA,2026-01-04 01:03:00.718430,Expired
+14,103,UX Design Internship,Internship,Demo,Pune,₹ 6 LPA,2026-04-08 01:03:00.718430,Open
+15,102,Demigod,Internship,Google India,SCOE Campus,₹ 4 LPA,2026-01-31 01:03:00.718430,Open
+16,101,COO,Internship,Creative Studios Inc,Pune,"₹ 20,000",2026-05-03 01:03:00.718430,Open
+17,101,COO,Internship,Google India,Pune,"₹ 20,000",2026-04-27 01:03:00.718430,Open
+18,103,UX Design Internship,Internship,TCS,"Austin, TX",₹ 6 LPA,2026-02-18 01:03:00.718430,Open
+19,103,Test Engineer Internship,Full-time,Demo,SCOE Campus,"₹ 20,000",2026-04-21 01:03:00.718430,Open
+20,101,Test Engineer Internship,Internship,Google India,Pune,"₹ 56,546",2026-05-15 01:03:00.718430,Open
+21,104,Demigod,Internship,TechCorp Pvt Ltd,SCOE Campus,"₹ 10,000",2026-01-29 01:03:00.718430,Expired
+22,103,COO,Internship,Next Electronics,"Austin, TX","₹ 56,546",2026-02-17 01:03:00.718430,Open
+23,102,COO,Full-time,TechCorp Pvt Ltd,Pune,₹ 4 LPA,2026-02-02 01:03:00.718430,Open
+24,101,Demigod,Internship,TCS,Narniwadi,"₹ 10,000",2026-05-21 01:03:00.718430,Open
+25,102,UX Design Internship,Internship,Next Electronics,Narniwadi,₹ 6 LPA,2026-02-11 01:03:00.718430,Open
+26,103,Software Engineer II,Internship,Creative Studios Inc,"San Francisco, CA",₹ 4 LPA,2026-04-27 01:03:00.719635,Open
+27,101,UX Design Internship,Full-time,Demo,SCOE Campus,"₹ 10,000",2026-05-04 01:03:00.719635,Open
+28,102,Software Engineer,Full-time,TechCorp Pvt Ltd,"Austin, TX","₹ 20,000",2026-01-18 01:03:00.719635,Expired
+29,101,UX Design Internship,Internship,Next Electronics,"San Francisco, CA",₹ 6 LPA,2026-01-09 01:03:00.719635,Expired
+30,102,Demigod,Full-time,TechCorp Pvt Ltd,"San Francisco, CA",₹ 6 LPA,2026-05-02 01:03:00.719635,Open
+31,102,COO,Internship,Demo,SCOE Campus,₹ 4 LPA,2026-01-03 01:03:00.719635,Expired
+32,104,Software Engineer,Internship,Creative Studios Inc,"San Francisco, CA","₹ 20,000",2026-01-24 01:03:00.719635,Expired
+33,101,Software Engineer II,Internship,TechCorp Pvt Ltd,"Austin, TX","₹ 10,000",2026-03-10 01:03:00.719635,Open
+34,103,Software Engineer II,Full-time,Next Electronics,SCOE Campus,"₹ 10,000",2026-03-06 01:03:00.719635,Open
+35,102,COO,Internship,Next Electronics,Pune,₹ 6 LPA,2026-01-26 01:03:00.719635,Expired
+36,103,COO,Internship,Creative Studios Inc,Narniwadi,"₹ 20,000",2026-01-26 01:03:00.719635,Expired
+37,104,UX Design Internship,Full-time,Next Electronics,"Austin, TX","₹ 20,000",2026-03-30 01:03:00.719635,Open
+38,104,Demigod,Internship,TechCorp Pvt Ltd,"Austin, TX","₹ 10,000",2026-04-23 01:03:00.719635,Open
+39,102,Test Engineer Internship,Full-time,Google India,"San Francisco, CA","₹ 56,546",2026-05-10 01:03:00.719635,Open
+40,102,COO,Full-time,Google India,SCOE Campus,"₹ 56,546",2026-02-18 01:03:00.719635,Open
+41,103,Demigod,Internship,TechCorp Pvt Ltd,"Austin, TX","₹ 20,000",2026-05-11 01:03:00.719635,Open
+42,101,Test Engineer Internship,Internship,Google India,Narniwadi,"₹ 20,000",2026-05-17 01:03:00.719635,Open
+43,104,Test Engineer Internship,Internship,Next Electronics,"San Francisco, CA","₹ 20,000",2026-04-28 01:03:00.719635,Open
+44,101,UX Design Internship,Internship,Next Electronics,Narniwadi,₹ 6 LPA,2026-04-17 01:03:00.719635,Open
+45,103,COO,Full-time,Creative Studios Inc,"San Francisco, CA","₹ 10,000",2026-04-05 01:03:00.719635,Open
+46,102,Test Engineer Internship,Internship,TechCorp Pvt Ltd,SCOE Campus,"₹ 20,000",2026-03-01 01:03:00.719635,Open
+47,104,COO,Internship,Creative Studios Inc,"San Francisco, CA","₹ 10,000",2026-03-12 01:03:00.719635,Open
+48,103,UX Design Internship,Internship,Demo,Narniwadi,₹ 6 LPA,2026-03-03 01:03:00.719635,Open
+49,102,Software Engineer,Full-time,Demo,"Austin, TX",₹ 6 LPA,2026-01-03 01:03:00.719635,Expired
+50,104,Software Engineer II,Internship,Creative Studios Inc,Narniwadi,₹ 4 LPA,2026-04-11 01:03:00.719635,Open
+51,103,Software Engineer,Full-time,Google India,SCOE Campus,"₹ 10,000",2026-04-12 01:03:00.719635,Open
+52,104,Demigod,Internship,Google India,"San Francisco, CA",₹ 6 LPA,2026-04-14 01:03:00.719635,Open
+53,101,Test Engineer Internship,Internship,Creative Studios Inc,SCOE Campus,"₹ 10,000",2026-05-07 01:03:00.719635,Open
+54,102,Test Engineer Internship,Full-time,Demo,Pune,"₹ 20,000",2026-04-22 01:03:00.719635,Open
+55,102,COO,Internship,Next Electronics,Narniwadi,"₹ 56,546",2025-12-31 01:03:00.719635,Expired
+56,104,UX Design Internship,Internship,TechCorp Pvt Ltd,"Austin, TX","₹ 10,000",2026-03-26 01:03:00.719635,Open
+57,102,Demigod,Full-time,Google India,SCOE Campus,₹ 6 LPA,2026-04-07 01:03:00.719635,Open
+58,101,Software Engineer II,Internship,Demo,"San Francisco, CA","₹ 56,546",2026-04-12 01:03:00.719635,Open
+59,102,COO,Internship,Demo,Pune,"₹ 10,000",2026-04-22 01:03:00.719635,Open
+60,101,Test Engineer Internship,Full-time,TCS,SCOE Campus,₹ 4 LPA,2026-01-08 01:03:00.719635,Expired
+61,102,Software Engineer II,Internship,Google India,SCOE Campus,"₹ 56,546",2026-05-29 01:03:00.719635,Open
+62,104,UX Design Internship,Full-time,Next Electronics,Narniwadi,"₹ 20,000",2026-05-07 01:03:00.719635,Open
+63,103,Test Engineer Internship,Full-time,TCS,Pune,"₹ 56,546",2026-02-19 01:03:00.719635,Open
+64,104,Test Engineer Internship,Internship,TCS,"San Francisco, CA","₹ 56,546",2026-05-08 01:03:00.719635,Open
+65,102,Test Engineer Internship,Internship,Google India,Narniwadi,"₹ 20,000",2026-04-15 01:03:00.719635,Open
+66,102,Demigod,Full-time,TechCorp Pvt Ltd,SCOE Campus,"₹ 56,546",2026-03-04 01:03:00.719635,Open
+67,104,Test Engineer Internship,Internship,Demo,"San Francisco, CA","₹ 56,546",2026-04-02 01:03:00.719635,Open
+68,101,COO,Internship,TechCorp Pvt Ltd,Pune,"₹ 20,000",2026-02-18 01:03:00.719635,Open
+69,102,UX Design Internship,Full-time,Google India,SCOE Campus,"₹ 20,000",2026-02-07 01:03:00.719635,Open
+70,101,Software Engineer,Full-time,TCS,"San Francisco, CA","₹ 56,546",2026-05-10 01:03:00.719635,Open
+71,102,COO,Full-time,TCS,"San Francisco, CA",₹ 4 LPA,2026-01-06 01:03:00.719635,Expired
+72,102,Software Engineer,Internship,TechCorp Pvt Ltd,SCOE Campus,₹ 6 LPA,2026-05-01 01:03:00.719635,Open
+73,104,Demigod,Internship,Google India,Narniwadi,₹ 6 LPA,2026-03-18 01:03:00.719635,Open
+74,103,Demigod,Internship,Google India,Narniwadi,"₹ 20,000",2026-04-03 01:03:00.719635,Open
+75,103,Demigod,Full-time,Next Electronics,Pune,₹ 4 LPA,2026-03-05 01:03:00.719635,Open
+76,104,Test Engineer Internship,Full-time,TCS,SCOE Campus,"₹ 20,000",2026-01-07 01:03:00.719635,Expired
+77,104,COO,Full-time,TCS,Pune,"₹ 10,000",2026-04-18 01:03:00.719635,Open
+78,101,Demigod,Internship,TechCorp Pvt Ltd,Narniwadi,"₹ 10,000",2026-03-11 01:03:00.719635,Open
+79,104,COO,Internship,Next Electronics,SCOE Campus,₹ 4 LPA,2026-05-01 01:03:00.719635,Open
+80,104,Test Engineer Internship,Internship,Demo,"Austin, TX","₹ 10,000",2026-01-23 01:03:00.719635,Expired
+81,103,Demigod,Internship,Google India,SCOE Campus,"₹ 20,000",2026-04-09 01:03:00.719635,Open
+82,102,COO,Internship,TechCorp Pvt Ltd,"Austin, TX","₹ 20,000",2026-01-18 01:03:00.719635,Expired
+83,104,Software Engineer II,Full-time,Google India,"Austin, TX","₹ 20,000",2026-03-26 01:03:00.719635,Open
+84,101,Software Engineer II,Full-time,TCS,"San Francisco, CA","₹ 56,546",2026-01-16 01:03:00.719635,Expired
+85,104,COO,Full-time,Google India,SCOE Campus,"₹ 10,000",2026-04-12 01:03:00.719635,Open
+86,103,COO,Full-time,Demo,"Austin, TX","₹ 20,000",2026-05-01 01:03:00.719635,Open
+87,101,Software Engineer,Internship,Next Electronics,SCOE Campus,₹ 6 LPA,2026-05-07 01:03:00.719635,Open
+88,104,Test Engineer Internship,Internship,Demo,Narniwadi,₹ 4 LPA,2026-01-07 01:03:00.719635,Expired
+89,101,COO,Full-time,Creative Studios Inc,Pune,"₹ 10,000",2026-03-05 01:03:00.719635,Open
+90,103,Demigod,Full-time,Creative Studios Inc,Narniwadi,"₹ 10,000",2026-03-02 01:03:00.719635,Open
+91,103,COO,Internship,TechCorp Pvt Ltd,"Austin, TX","₹ 56,546",2026-05-21 01:03:00.719635,Open
+92,104,Software Engineer,Internship,TechCorp Pvt Ltd,"Austin, TX",₹ 4 LPA,2026-02-13 01:03:00.719635,Open
+93,102,Software Engineer II,Internship,TechCorp Pvt Ltd,Narniwadi,"₹ 56,546",2026-01-15 01:03:00.719635,Expired
+94,101,UX Design Internship,Internship,Google India,"San Francisco, CA","₹ 10,000",2026-01-25 01:03:00.719635,Expired
+95,101,COO,Internship,Next Electronics,"Austin, TX","₹ 10,000",2026-05-24 01:03:00.719635,Open
+96,102,COO,Internship,Next Electronics,"San Francisco, CA",₹ 4 LPA,2026-01-26 01:03:00.719635,Expired
+97,102,Demigod,Full-time,TCS,SCOE Campus,"₹ 10,000",2026-04-13 01:03:00.719635,Open
+98,104,Software Engineer II,Full-time,Demo,"San Francisco, CA",₹ 4 LPA,2026-05-28 01:03:00.719635,Open
+99,103,Software Engineer II,Internship,Creative Studios Inc,"Austin, TX","₹ 56,546",2026-04-05 01:03:00.719635,Open
+100,102,COO,Internship,Demo,Narniwadi,₹ 4 LPA,2026-03-04 01:03:00.719635,Open
+101,103,Software Engineer II,Internship,TCS,Narniwadi,"₹ 56,546",2026-04-13 01:03:00.719635,Open
+102,104,UX Design Internship,Internship,TCS,"San Francisco, CA",₹ 6 LPA,2026-04-08 01:03:00.719635,Open
+103,103,Software Engineer,Internship,Demo,"San Francisco, CA","₹ 10,000",2026-02-10 01:03:00.719635,Open
+104,102,Demigod,Full-time,Google India,"Austin, TX",₹ 4 LPA,2026-04-17 01:03:00.719635,Open
+105,102,UX Design Internship,Internship,Next Electronics,SCOE Campus,₹ 4 LPA,2026-05-26 01:03:00.719635,Open
+106,103,Demigod,Full-time,Google India,Pune,"₹ 10,000",2026-04-29 01:03:00.719635,Open
+107,103,Software Engineer,Internship,Next Electronics,Narniwadi,"₹ 56,546",2026-05-06 01:03:00.719635,Open
+108,102,Software Engineer,Internship,TCS,Narniwadi,₹ 6 LPA,2026-05-23 01:03:00.719635,Open
+109,102,Demigod,Internship,TechCorp Pvt Ltd,"Austin, TX",₹ 6 LPA,2026-04-15 01:03:00.719635,Open
+110,103,Software Engineer II,Full-time,Google India,"Austin, TX","₹ 20,000",2026-05-11 01:03:00.719635,Open
+111,104,Software Engineer,Full-time,Google India,"Austin, TX","₹ 10,000",2026-02-21 01:03:00.719635,Open
+112,104,Test Engineer Internship,Internship,TCS,Narniwadi,₹ 6 LPA,2026-03-04 01:03:00.719635,Open
+113,102,Demigod,Internship,Demo,Pune,₹ 6 LPA,2026-05-01 01:03:00.719635,Open
+114,103,UX Design Internship,Full-time,TechCorp Pvt Ltd,Pune,₹ 6 LPA,2026-04-03 01:03:00.719635,Open
+115,104,COO,Internship,Next Electronics,Narniwadi,₹ 4 LPA,2026-01-03 01:03:00.719635,Expired
+116,103,COO,Internship,Google India,SCOE Campus,"₹ 56,546",2026-01-22 01:03:00.719635,Expired
+117,101,Test Engineer Internship,Full-time,TCS,SCOE Campus,₹ 6 LPA,2026-01-10 01:03:00.719635,Expired
+118,104,Software Engineer,Full-time,Creative Studios Inc,"San Francisco, CA","₹ 56,546",2026-01-22 01:03:00.719635,Expired
+119,104,Demigod,Internship,Next Electronics,Narniwadi,"₹ 56,546",2026-04-22 01:03:00.719635,Open
+120,103,Software Engineer II,Internship,Next Electronics,Pune,₹ 6 LPA,2026-05-25 01:03:00.719635,Open
+121,102,Test Engineer Internship,Full-time,TechCorp Pvt Ltd,"Austin, TX","₹ 20,000",2026-03-28 01:03:00.719635,Open
+122,103,UX Design Internship,Internship,Next Electronics,Pune,"₹ 56,546",2026-01-28 01:03:00.719635,Expired
+123,103,UX Design Internship,Full-time,Google India,Narniwadi,"₹ 20,000",2026-03-07 01:03:00.719635,Open
+124,102,Software Engineer,Full-time,Next Electronics,Narniwadi,₹ 4 LPA,2026-05-11 01:03:00.719635,Open
+125,103,Test Engineer Internship,Internship,TechCorp Pvt Ltd,"Austin, TX",₹ 6 LPA,2026-05-04 01:03:00.719635,Open
+126,102,COO,Internship,Google India,"Austin, TX",₹ 6 LPA,2026-01-06 01:03:00.719635,Expired
+127,102,COO,Internship,Google India,"Austin, TX",₹ 4 LPA,2026-02-11 01:03:00.719635,Open
+128,103,Software Engineer II,Full-time,TCS,"Austin, TX",₹ 6 LPA,2026-01-06 01:03:00.719635,Expired
+129,103,Test Engineer Internship,Internship,Creative Studios Inc,Pune,"₹ 10,000",2026-01-12 01:03:00.719635,Expired
+130,101,Software Engineer II,Full-time,TechCorp Pvt Ltd,Pune,"₹ 20,000",2026-01-19 01:03:00.719635,Expired
+131,103,Demigod,Internship,Demo,Narniwadi,"₹ 10,000",2026-02-15 01:03:00.719635,Open
+132,103,Test Engineer Internship,Full-time,Demo,"San Francisco, CA","₹ 20,000",2026-01-28 01:03:00.719635,Expired
+133,101,Software Engineer II,Internship,TechCorp Pvt Ltd,Pune,₹ 6 LPA,2026-01-04 01:03:00.719635,Expired
+134,103,UX Design Internship,Internship,TCS,"San Francisco, CA","₹ 10,000",2026-03-01 01:03:00.719635,Open
+135,104,UX Design Internship,Internship,TechCorp Pvt Ltd,SCOE Campus,"₹ 20,000",2026-03-25 01:03:00.719635,Open
+136,104,Demigod,Full-time,Creative Studios Inc,Narniwadi,₹ 6 LPA,2026-05-14 01:03:00.719635,Open
+137,104,Test Engineer Internship,Internship,Next Electronics,Pune,₹ 6 LPA,2026-04-02 01:03:00.719635,Open
+138,103,Demigod,Internship,Creative Studios Inc,Pune,"₹ 20,000",2026-03-14 01:03:00.719635,Open
+139,103,Demigod,Internship,Creative Studios Inc,Pune,₹ 6 LPA,2026-03-04 01:03:00.719635,Open
+140,104,UX Design Internship,Full-time,TechCorp Pvt Ltd,SCOE Campus,"₹ 20,000",2026-04-06 01:03:00.719635,Open
+141,104,Test Engineer Internship,Internship,TCS,"San Francisco, CA",₹ 4 LPA,2026-05-05 01:03:00.719635,Open
+142,101,Software Engineer,Internship,Next Electronics,Narniwadi,"₹ 56,546",2026-05-20 01:03:00.719635,Open
+143,101,Demigod,Internship,Google India,SCOE Campus,₹ 6 LPA,2026-02-23 01:03:00.719635,Open
+144,101,UX Design Internship,Full-time,Google India,SCOE Campus,"₹ 10,000",2026-05-29 01:03:00.719635,Open
+145,103,Software Engineer,Full-time,TechCorp Pvt Ltd,SCOE Campus,₹ 4 LPA,2026-02-12 01:03:00.719635,Open
+146,104,Demigod,Internship,TCS,Narniwadi,"₹ 56,546",2026-04-27 01:03:00.719635,Open
+147,103,Test Engineer Internship,Full-time,TechCorp Pvt Ltd,"Austin, TX","₹ 56,546",2026-01-19 01:03:00.719635,Expired
+148,101,Software Engineer II,Internship,TechCorp Pvt Ltd,"San Francisco, CA","₹ 56,546",2026-01-04 01:03:00.719635,Expired
+149,101,UX Design Internship,Internship,TechCorp Pvt Ltd,"San Francisco, CA","₹ 20,000",2026-01-06 01:03:00.719635,Expired
+150,104,Test Engineer Internship,Full-time,TCS,Pune,"₹ 20,000",2026-05-26 01:03:00.719635,Open
+151,104,Test Engineer Internship,Full-time,Next Electronics,SCOE Campus,"₹ 10,000",2026-04-07 01:03:00.719635,Open
+152,103,COO,Internship,Demo,SCOE Campus,₹ 6 LPA,2026-04-28 01:03:00.719635,Open
+153,103,Software Engineer II,Internship,Next Electronics,"Austin, TX",₹ 4 LPA,2026-03-04 01:03:00.719635,Open
+154,103,Software Engineer II,Full-time,Next Electronics,SCOE Campus,"₹ 20,000",2026-05-17 01:03:00.719635,Open
+155,101,Software Engineer,Full-time,TCS,Pune,₹ 4 LPA,2026-02-25 01:03:00.719635,Open
+156,102,COO,Full-time,Google India,"Austin, TX","₹ 20,000",2026-01-14 01:03:00.719635,Expired
+157,101,Test Engineer Internship,Internship,Next Electronics,SCOE Campus,₹ 4 LPA,2026-03-17 01:03:00.719635,Open
+158,103,Software Engineer II,Full-time,TCS,"San Francisco, CA","₹ 20,000",2026-03-22 01:03:00.719635,Open
+159,102,COO,Internship,Google India,"San Francisco, CA","₹ 56,546",2026-03-23 01:03:00.719635,Open
+160,102,Software Engineer II,Internship,Google India,Pune,₹ 6 LPA,2026-05-20 01:03:00.719635,Open
+161,103,Software Engineer,Full-time,TechCorp Pvt Ltd,Pune,"₹ 56,546",2026-05-08 01:03:00.719635,Open
+162,104,COO,Full-time,Google India,SCOE Campus,"₹ 56,546",2026-03-07 01:03:00.719635,Open
+163,101,Test Engineer Internship,Internship,Creative Studios Inc,SCOE Campus,₹ 4 LPA,2026-01-13 01:03:00.719635,Expired
+164,104,Software Engineer II,Internship,Next Electronics,"Austin, TX","₹ 20,000",2026-04-25 01:03:00.719635,Open
+165,104,Demigod,Internship,Demo,Narniwadi,₹ 4 LPA,2026-03-07 01:03:00.719635,Open
+166,101,COO,Internship,Next Electronics,Narniwadi,"₹ 56,546",2026-05-28 01:03:00.719635,Open
+167,102,Software Engineer II,Full-time,TCS,"Austin, TX","₹ 10,000",2026-03-19 01:03:00.719635,Open
+168,101,Demigod,Full-time,Demo,"Austin, TX",₹ 4 LPA,2026-05-07 01:03:00.719635,Open
+169,101,Demigod,Internship,TCS,Narniwadi,"₹ 10,000",2026-02-18 01:03:00.719635,Open
+170,102,Demigod,Internship,Demo,"Austin, TX","₹ 56,546",2026-01-30 01:03:00.719635,Open
+171,102,Demigod,Internship,Next Electronics,"San Francisco, CA",₹ 6 LPA,2026-02-22 01:03:00.719635,Open
+172,101,COO,Internship,TCS,"Austin, TX",₹ 4 LPA,2026-02-02 01:03:00.719635,Open
+173,104,COO,Full-time,Creative Studios Inc,SCOE Campus,"₹ 10,000",2026-03-31 01:03:00.719635,Open
+174,102,Demigod,Full-time,Google India,"San Francisco, CA","₹ 20,000",2026-03-17 01:03:00.719635,Open
+175,102,Demigod,Internship,Creative Studios Inc,SCOE Campus,"₹ 10,000",2026-03-21 01:03:00.719635,Open
+176,103,Software Engineer II,Full-time,Demo,"San Francisco, CA",₹ 4 LPA,2026-01-31 01:03:00.719635,Open
+177,101,Test Engineer Internship,Full-time,Creative Studios Inc,SCOE Campus,"₹ 10,000",2026-01-28 01:03:00.719635,Expired
+178,103,Software Engineer II,Internship,TechCorp Pvt Ltd,SCOE Campus,"₹ 10,000",2026-01-03 01:03:00.719635,Expired
+179,103,COO,Full-time,TCS,SCOE Campus,"₹ 56,546",2026-01-27 01:03:00.719635,Expired
+180,103,Test Engineer Internship,Full-time,TCS,Pune,₹ 4 LPA,2026-02-04 01:03:00.719635,Open
+181,103,Demigod,Internship,Creative Studios Inc,Narniwadi,₹ 4 LPA,2026-01-07 01:03:00.719635,Expired
+182,104,Software Engineer,Internship,Creative Studios Inc,Narniwadi,"₹ 20,000",2026-05-26 01:03:00.719635,Open
+183,103,UX Design Internship,Full-time,TechCorp Pvt Ltd,SCOE Campus,"₹ 20,000",2026-03-14 01:03:00.719635,Open
+184,104,COO,Full-time,Creative Studios Inc,Pune,₹ 6 LPA,2026-02-08 01:03:00.719635,Open
+185,102,Software Engineer,Internship,TCS,"San Francisco, CA","₹ 56,546",2026-03-06 01:03:00.719635,Open
+186,101,Test Engineer Internship,Internship,Demo,Pune,"₹ 56,546",2026-04-18 01:03:00.719635,Open
+187,101,Software Engineer II,Internship,Creative Studios Inc,"Austin, TX",₹ 6 LPA,2026-01-15 01:03:00.719635,Expired
+188,103,Software Engineer II,Full-time,TCS,SCOE Campus,"₹ 20,000",2026-01-28 01:03:00.719635,Expired
+189,104,UX Design Internship,Full-time,TechCorp Pvt Ltd,SCOE Campus,"₹ 20,000",2026-02-28 01:03:00.719635,Open
+190,102,UX Design Internship,Internship,TCS,Narniwadi,₹ 4 LPA,2026-01-07 01:03:00.719635,Expired
+191,101,Test Engineer Internship,Internship,Demo,SCOE Campus,"₹ 56,546",2026-02-22 01:03:00.719635,Open
+192,102,Demigod,Internship,Google India,SCOE Campus,"₹ 56,546",2026-02-05 01:03:00.719635,Open
+193,101,COO,Full-time,TechCorp Pvt Ltd,"Austin, TX","₹ 20,000",2026-03-23 01:03:00.719635,Open
+194,101,Demigod,Full-time,Google India,Narniwadi,"₹ 10,000",2026-04-06 01:03:00.719635,Open
+195,101,Software Engineer,Internship,Demo,Pune,₹ 4 LPA,2026-04-10 01:03:00.719635,Open
+196,103,Software Engineer,Internship,TechCorp Pvt Ltd,"San Francisco, CA","₹ 20,000",2026-03-01 01:03:00.719635,Open
+197,101,Demigod,Full-time,Next Electronics,Narniwadi,₹ 6 LPA,2026-01-30 01:03:00.719635,Open
+198,101,Software Engineer,Full-time,Demo,Pune,₹ 4 LPA,2026-04-06 01:03:00.719635,Open
+199,104,COO,Internship,Next Electronics,Narniwadi,"₹ 56,546",2026-03-22 01:03:00.719635,Open
+200,103,Demigod,Internship,Demo,Narniwadi,₹ 6 LPA,2026-05-19 01:03:00.719635,Open
+201,101,Test Engineer Internship,Full-time,Creative Studios Inc,Pune,"₹ 56,546",2026-04-12 01:03:00.719635,Open
+202,104,UX Design Internship,Full-time,Creative Studios Inc,"Austin, TX","₹ 56,546",2026-02-16 01:03:00.719635,Open
+203,104,Test Engineer Internship,Full-time,TechCorp Pvt Ltd,"Austin, TX","₹ 10,000",2026-04-29 01:03:00.719635,Open
+204,103,UX Design Internship,Full-time,Demo,Pune,"₹ 20,000",2026-04-10 01:03:00.719635,Open
+205,104,Test Engineer Internship,Full-time,Google India,"San Francisco, CA","₹ 56,546",2026-03-28 01:03:00.719635,Open
+206,102,UX Design Internship,Full-time,Creative Studios Inc,SCOE Campus,"₹ 20,000",2026-02-24 01:03:00.719635,Open
+207,101,UX Design Internship,Full-time,Next Electronics,"Austin, TX","₹ 56,546",2026-04-03 01:03:00.719635,Open
+208,102,Test Engineer Internship,Internship,Next Electronics,"Austin, TX","₹ 56,546",2026-01-19 01:03:00.719635,Expired
+209,103,COO,Full-time,Demo,SCOE Campus,"₹ 20,000",2026-04-27 01:03:00.719635,Open
+210,101,Software Engineer II,Full-time,Next Electronics,"Austin, TX",₹ 6 LPA,2026-01-14 01:03:00.719635,Expired
+211,102,Test Engineer Internship,Full-time,Demo,SCOE Campus,"₹ 10,000",2026-05-05 01:03:00.719635,Open
+212,104,UX Design Internship,Full-time,Demo,Narniwadi,"₹ 10,000",2026-01-26 01:03:00.719635,Expired
+213,102,Test Engineer Internship,Full-time,Creative Studios Inc,"Austin, TX",₹ 6 LPA,2026-05-23 01:03:00.719635,Open
+214,104,Software Engineer II,Internship,TCS,"Austin, TX","₹ 10,000",2026-05-18 01:03:00.719635,Open
+215,103,Software Engineer,Internship,TCS,SCOE Campus,"₹ 10,000",2026-03-11 01:03:00.719635,Open
+216,103,UX Design Internship,Full-time,Next Electronics,SCOE Campus,"₹ 10,000",2026-02-02 01:03:00.719635,Open
+217,103,Software Engineer,Internship,Creative Studios Inc,SCOE Campus,"₹ 10,000",2026-05-03 01:03:00.719635,Open
+218,103,Software Engineer,Full-time,TechCorp Pvt Ltd,Pune,"₹ 10,000",2026-03-18 01:03:00.720639,Open
+219,104,Software Engineer II,Full-time,TechCorp Pvt Ltd,Narniwadi,"₹ 10,000",2026-01-15 01:03:00.720639,Expired
+220,102,COO,Internship,TCS,Pune,₹ 6 LPA,2026-03-13 01:03:00.720639,Open
+221,104,Test Engineer Internship,Full-time,Google India,Pune,"₹ 56,546",2026-03-27 01:03:00.720639,Open
+222,101,Test Engineer Internship,Full-time,TCS,Narniwadi,"₹ 56,546",2026-01-22 01:03:00.720639,Expired
+223,103,UX Design Internship,Internship,Creative Studios Inc,"San Francisco, CA","₹ 10,000",2026-05-17 01:03:00.720639,Open
+224,103,Software Engineer,Internship,Demo,Narniwadi,"₹ 10,000",2026-03-15 01:03:00.720639,Open
+225,104,Demigod,Internship,Next Electronics,"Austin, TX",₹ 4 LPA,2026-03-05 01:03:00.720639,Open
+226,103,Software Engineer II,Internship,TCS,"Austin, TX","₹ 56,546",2026-03-27 01:03:00.720639,Open
+227,103,Demigod,Internship,TCS,"San Francisco, CA","₹ 56,546",2026-05-24 01:03:00.720639,Open
+228,101,Software Engineer,Full-time,Creative Studios Inc,SCOE Campus,₹ 4 LPA,2026-03-12 01:03:00.720639,Open
+229,104,Software Engineer II,Full-time,Google India,SCOE Campus,"₹ 56,546",2026-02-26 01:03:00.720639,Open
+230,103,Software Engineer II,Full-time,Demo,Narniwadi,₹ 6 LPA,2026-03-16 01:03:00.720639,Open
+231,102,Software Engineer II,Internship,Google India,"San Francisco, CA","₹ 10,000",2026-01-15 01:03:00.720639,Expired
+232,102,UX Design Internship,Internship,Creative Studios Inc,"Austin, TX",₹ 4 LPA,2026-04-22 01:03:00.720639,Open
+233,103,Software Engineer,Internship,TCS,Pune,"₹ 10,000",2026-01-06 01:03:00.720639,Expired
+234,104,Software Engineer,Full-time,Next Electronics,Narniwadi,"₹ 20,000",2026-05-08 01:03:00.720639,Open
+235,103,Demigod,Internship,TechCorp Pvt Ltd,"San Francisco, CA",₹ 4 LPA,2026-03-25 01:03:00.720639,Open
+236,104,Software Engineer,Full-time,Next Electronics,"Austin, TX",₹ 4 LPA,2026-03-02 01:03:00.720639,Open
+237,104,Software Engineer II,Internship,Next Electronics,Pune,₹ 4 LPA,2026-01-12 01:03:00.720639,Expired
+238,103,Demigod,Full-time,Next Electronics,SCOE Campus,₹ 6 LPA,2026-02-11 01:03:00.720639,Open
+239,103,COO,Full-time,TechCorp Pvt Ltd,Narniwadi,"₹ 20,000",2026-01-05 01:03:00.720639,Expired
+240,103,Software Engineer,Internship,Creative Studios Inc,SCOE Campus,₹ 4 LPA,2026-05-13 01:03:00.720639,Open
+241,104,Test Engineer Internship,Internship,Demo,Narniwadi,₹ 4 LPA,2026-03-16 01:03:00.720639,Open
+242,102,Software Engineer II,Full-time,Demo,SCOE Campus,₹ 6 LPA,2026-02-07 01:03:00.720639,Open
+243,102,Demigod,Internship,TechCorp Pvt Ltd,Narniwadi,"₹ 10,000",2026-04-13 01:03:00.720639,Open
+244,101,UX Design Internship,Internship,TCS,"San Francisco, CA","₹ 56,546",2026-03-31 01:03:00.720639,Open
+245,101,COO,Full-time,Google India,SCOE Campus,₹ 6 LPA,2026-05-09 01:03:00.720639,Open
+246,103,Software Engineer,Full-time,Demo,"San Francisco, CA",₹ 4 LPA,2026-01-19 01:03:00.720639,Expired
+247,102,UX Design Internship,Full-time,Next Electronics,SCOE Campus,"₹ 20,000",2026-02-08 01:03:00.720639,Open
+248,102,Software Engineer,Full-time,Next Electronics,Narniwadi,₹ 6 LPA,2026-05-16 01:03:00.720639,Open
+249,102,UX Design Internship,Internship,Next Electronics,Pune,"₹ 20,000",2026-04-21 01:03:00.720639,Open
+250,104,Software Engineer II,Internship,TCS,"Austin, TX",₹ 4 LPA,2026-05-25 01:03:00.720639,Open
+251,102,Software Engineer II,Full-time,TechCorp Pvt Ltd,"Austin, TX",₹ 6 LPA,2026-02-14 01:03:00.720639,Open
+252,104,Test Engineer Internship,Internship,Demo,Narniwadi,"₹ 10,000",2026-03-03 01:03:00.720639,Open
+253,102,Software Engineer II,Full-time,TCS,SCOE Campus,"₹ 56,546",2026-03-16 01:03:00.720639,Open
+254,104,COO,Full-time,Creative Studios Inc,Pune,"₹ 20,000",2026-01-30 01:03:00.720639,Open
+255,103,Demigod,Full-time,Demo,Narniwadi,₹ 6 LPA,2026-03-08 01:03:00.720639,Open
+256,102,Software Engineer II,Full-time,TCS,Narniwadi,"₹ 56,546",2026-01-19 01:03:00.720639,Expired
+257,101,Software Engineer,Full-time,Next Electronics,"San Francisco, CA",₹ 6 LPA,2026-01-14 01:03:00.720639,Expired
+258,101,Software Engineer,Full-time,Demo,SCOE Campus,₹ 6 LPA,2026-04-23 01:03:00.720639,Open
+259,101,UX Design Internship,Full-time,TechCorp Pvt Ltd,SCOE Campus,₹ 4 LPA,2026-02-26 01:03:00.720639,Open
+260,102,UX Design Internship,Internship,Google India,Narniwadi,₹ 4 LPA,2026-04-03 01:03:00.720639,Open
+261,101,Software Engineer II,Full-time,Google India,SCOE Campus,₹ 6 LPA,2026-03-24 01:03:00.720639,Open
+262,102,Software Engineer,Full-time,Google India,"San Francisco, CA","₹ 20,000",2026-05-29 01:03:00.720639,Open
+263,102,Software Engineer II,Full-time,Next Electronics,Pune,"₹ 56,546",2026-03-04 01:03:00.720639,Open
+264,101,Software Engineer II,Full-time,Google India,"Austin, TX",₹ 4 LPA,2026-04-19 01:03:00.720639,Open
+265,103,UX Design Internship,Full-time,TechCorp Pvt Ltd,Pune,₹ 6 LPA,2026-01-16 01:03:00.720639,Expired
+266,103,UX Design Internship,Internship,Google India,Pune,"₹ 56,546",2025-12-30 01:03:00.720639,Expired
+267,104,Test Engineer Internship,Internship,TCS,SCOE Campus,₹ 6 LPA,2026-01-04 01:03:00.720639,Expired
+268,102,Demigod,Full-time,Google India,"San Francisco, CA","₹ 20,000",2026-03-20 01:03:00.720639,Open
+269,102,COO,Full-time,Demo,"Austin, TX","₹ 20,000",2026-03-24 01:03:00.720639,Open
+270,102,UX Design Internship,Full-time,Creative Studios Inc,"San Francisco, CA",₹ 4 LPA,2026-02-28 01:03:00.720639,Open
+271,102,Test Engineer Internship,Internship,Google India,SCOE Campus,₹ 4 LPA,2026-01-05 01:03:00.720639,Expired
+272,102,Demigod,Full-time,Next Electronics,"Austin, TX","₹ 20,000",2026-05-01 01:03:00.720639,Open
+273,102,COO,Internship,Next Electronics,"Austin, TX","₹ 20,000",2026-02-26 01:03:00.720639,Open
+274,102,COO,Full-time,TCS,Narniwadi,"₹ 56,546",2026-03-12 01:03:00.720639,Open
+275,103,UX Design Internship,Internship,TCS,Pune,₹ 6 LPA,2026-05-01 01:03:00.720639,Open
+276,104,Test Engineer Internship,Internship,Next Electronics,Narniwadi,₹ 4 LPA,2026-05-25 01:03:00.720639,Open
+277,103,UX Design Internship,Internship,Creative Studios Inc,SCOE Campus,₹ 6 LPA,2026-03-12 01:03:00.720639,Open
+278,101,UX Design Internship,Full-time,Google India,SCOE Campus,"₹ 10,000",2026-02-11 01:03:00.720639,Open
+279,102,UX Design Internship,Internship,TCS,"Austin, TX",₹ 6 LPA,2026-02-19 01:03:00.720639,Open
+280,101,UX Design Internship,Internship,Creative Studios Inc,"Austin, TX",₹ 6 LPA,2026-03-18 01:03:00.720639,Open
+281,101,Demigod,Internship,Next Electronics,SCOE Campus,₹ 6 LPA,2026-05-26 01:03:00.720639,Open
+282,104,Demigod,Full-time,Creative Studios Inc,SCOE Campus,"₹ 56,546",2026-01-21 01:03:00.720639,Expired
+283,103,Software Engineer II,Internship,Next Electronics,SCOE Campus,₹ 4 LPA,2026-01-04 01:03:00.720639,Expired
+284,102,Software Engineer II,Internship,Next Electronics,SCOE Campus,₹ 6 LPA,2026-04-20 01:03:00.720639,Open
+285,104,Demigod,Full-time,Creative Studios Inc,Pune,"₹ 20,000",2026-03-25 01:03:00.720639,Open
+286,104,Software Engineer,Internship,Next Electronics,"Austin, TX","₹ 10,000",2026-02-09 01:03:00.720639,Open
+287,103,Demigod,Internship,Next Electronics,SCOE Campus,"₹ 20,000",2026-02-08 01:03:00.720639,Open
+288,103,UX Design Internship,Internship,Next Electronics,"San Francisco, CA","₹ 20,000",2026-04-21 01:03:00.720639,Open
+289,102,UX Design Internship,Full-time,Google India,SCOE Campus,"₹ 10,000",2026-04-16 01:03:00.720639,Open
+290,103,UX Design Internship,Internship,Demo,"Austin, TX",₹ 4 LPA,2026-01-14 01:03:00.720639,Expired
+291,104,Software Engineer II,Full-time,TCS,"San Francisco, CA",₹ 6 LPA,2026-01-16 01:03:00.720639,Expired
+292,103,UX Design Internship,Full-time,Google India,Pune,₹ 4 LPA,2026-01-09 01:03:00.720639,Expired
+293,102,Demigod,Internship,TechCorp Pvt Ltd,"San Francisco, CA",₹ 4 LPA,2026-02-24 01:03:00.720639,Open
+294,103,Software Engineer II,Internship,Google India,"San Francisco, CA","₹ 10,000",2026-05-27 01:03:00.720639,Open
+295,101,UX Design Internship,Full-time,Next Electronics,SCOE Campus,₹ 6 LPA,2026-03-04 01:03:00.720639,Open
+296,102,COO,Internship,Next Electronics,SCOE Campus,"₹ 20,000",2026-05-23 01:03:00.720639,Open
+297,102,UX Design Internship,Full-time,Creative Studios Inc,Pune,"₹ 10,000",2026-02-18 01:03:00.720639,Open
+298,102,Test Engineer Internship,Internship,Google India,"San Francisco, CA",₹ 6 LPA,2026-04-02 01:03:00.720639,Open
+299,104,Demigod,Internship,Next Electronics,SCOE Campus,₹ 6 LPA,2026-03-23 01:03:00.720639,Open
+300,102,UX Design Internship,Internship,TechCorp Pvt Ltd,Pune,₹ 6 LPA,2026-02-19 01:03:00.720639,Open
+301,102,Software Engineer,Full-time,Next Electronics,Pune,"₹ 20,000",2026-01-30 01:03:00.720639,Open
+302,103,UX Design Internship,Internship,TechCorp Pvt Ltd,SCOE Campus,"₹ 20,000",2026-01-20 01:03:00.720639,Expired
+303,101,Test Engineer Internship,Full-time,TechCorp Pvt Ltd,"San Francisco, CA",₹ 6 LPA,2026-05-07 01:03:00.720639,Open
+304,104,UX Design Internship,Full-time,Creative Studios Inc,Pune,₹ 6 LPA,2026-03-21 01:03:00.720639,Open
+305,103,COO,Internship,Next Electronics,Narniwadi,₹ 6 LPA,2026-05-24 01:03:00.720639,Open
+306,101,Demigod,Internship,TechCorp Pvt Ltd,Narniwadi,"₹ 10,000",2026-01-07 01:03:00.720639,Expired
+307,104,Test Engineer Internship,Full-time,Demo,SCOE Campus,"₹ 56,546",2026-05-25 01:03:00.720639,Open
+308,104,COO,Internship,Demo,Narniwadi,₹ 6 LPA,2026-03-29 01:03:00.720639,Open
+309,102,COO,Internship,TCS,Pune,"₹ 10,000",2026-05-01 01:03:00.720639,Open
+310,103,Software Engineer II,Internship,TCS,Narniwadi,"₹ 56,546",2026-04-24 01:03:00.720639,Open
+311,101,Demigod,Internship,Demo,"San Francisco, CA","₹ 10,000",2026-05-27 01:03:00.720639,Open
+312,103,Software Engineer,Full-time,Creative Studios Inc,"San Francisco, CA","₹ 20,000",2026-03-31 01:03:00.720639,Open
+313,103,Software Engineer,Full-time,Demo,Pune,₹ 4 LPA,2026-05-05 01:03:00.720639,Open
+314,101,Demigod,Full-time,Google India,Pune,"₹ 20,000",2026-05-20 01:03:00.720639,Open
+315,101,COO,Full-time,Google India,SCOE Campus,"₹ 56,546",2026-04-26 01:03:00.720639,Open
+316,101,COO,Internship,Google India,"San Francisco, CA","₹ 56,546",2026-01-04 01:03:00.720639,Expired
+317,103,Software Engineer II,Full-time,TechCorp Pvt Ltd,Narniwadi,"₹ 10,000",2026-01-12 01:03:00.720639,Expired
+318,102,Software Engineer,Internship,TCS,SCOE Campus,₹ 4 LPA,2026-05-17 01:03:00.720639,Open
+319,104,COO,Full-time,Demo,Pune,"₹ 10,000",2026-01-31 01:03:00.720639,Open
+320,104,Software Engineer II,Internship,TechCorp Pvt Ltd,SCOE Campus,₹ 6 LPA,2026-02-05 01:03:00.720639,Open
+321,101,COO,Internship,TechCorp Pvt Ltd,"Austin, TX","₹ 56,546",2026-03-11 01:03:00.720639,Open
+322,104,UX Design Internship,Internship,TechCorp Pvt Ltd,Narniwadi,₹ 6 LPA,2026-05-20 01:03:00.720639,Open
+323,102,UX Design Internship,Full-time,Demo,"Austin, TX",₹ 4 LPA,2026-02-08 01:03:00.720639,Open
+324,102,COO,Internship,Google India,"Austin, TX","₹ 10,000",2026-01-31 01:03:00.720639,Open
+325,101,Test Engineer Internship,Internship,Google India,"Austin, TX","₹ 56,546",2026-02-14 01:03:00.720639,Open
+326,104,Software Engineer,Full-time,Next Electronics,Pune,"₹ 20,000",2026-04-01 01:03:00.720639,Open
+327,104,Software Engineer,Full-time,Google India,"San Francisco, CA",₹ 4 LPA,2026-05-14 01:03:00.720639,Open
+328,103,Test Engineer Internship,Internship,Demo,SCOE Campus,"₹ 56,546",2026-01-30 01:03:00.720639,Open
+329,102,Software Engineer II,Internship,Demo,Narniwadi,"₹ 20,000",2026-03-13 01:03:00.720639,Open
+330,101,Software Engineer II,Internship,Google India,Pune,₹ 6 LPA,2026-03-11 01:03:00.720639,Open
+331,103,Test Engineer Internship,Internship,Demo,"Austin, TX","₹ 20,000",2026-04-09 01:03:00.720639,Open
+332,102,UX Design Internship,Internship,TCS,"San Francisco, CA","₹ 56,546",2026-04-01 01:03:00.720639,Open
+333,101,Software Engineer II,Full-time,Google India,"Austin, TX","₹ 20,000",2026-05-08 01:03:00.720639,Open
+334,102,Software Engineer II,Internship,Demo,Narniwadi,"₹ 56,546",2026-01-11 01:03:00.720639,Expired
+335,103,Software Engineer,Full-time,Google India,Narniwadi,₹ 6 LPA,2026-05-10 01:03:00.720639,Open
+336,102,Software Engineer II,Full-time,Creative Studios Inc,Narniwadi,₹ 6 LPA,2026-03-13 01:03:00.720639,Open
+337,104,UX Design Internship,Full-time,Next Electronics,Narniwadi,₹ 4 LPA,2026-03-14 01:03:00.720639,Open
+338,103,UX Design Internship,Internship,Google India,"Austin, TX",₹ 6 LPA,2026-01-02 01:03:00.720639,Expired
+339,101,Software Engineer,Full-time,Next Electronics,"Austin, TX",₹ 6 LPA,2026-03-12 01:03:00.720639,Open
+340,103,Software Engineer,Internship,TCS,"San Francisco, CA",₹ 6 LPA,2026-01-01 01:03:00.720639,Expired
+341,103,Software Engineer II,Full-time,TechCorp Pvt Ltd,Pune,₹ 4 LPA,2026-04-20 01:03:00.720639,Open
+342,102,Test Engineer Internship,Internship,Creative Studios Inc,"San Francisco, CA","₹ 20,000",2026-05-06 01:03:00.720639,Open
+343,103,Software Engineer,Full-time,Next Electronics,SCOE Campus,₹ 6 LPA,2026-02-02 01:03:00.720639,Open
+344,102,COO,Full-time,Google India,SCOE Campus,₹ 4 LPA,2026-05-29 01:03:00.720639,Open
+345,104,Demigod,Internship,Creative Studios Inc,Narniwadi,"₹ 56,546",2026-04-03 01:03:00.720639,Open
+346,102,Software Engineer II,Internship,TCS,Narniwadi,"₹ 56,546",2026-01-08 01:03:00.720639,Expired
+347,104,Test Engineer Internship,Internship,Creative Studios Inc,"San Francisco, CA","₹ 20,000",2026-05-27 01:03:00.720639,Open
+348,104,Software Engineer II,Full-time,Creative Studios Inc,Narniwadi,"₹ 10,000",2026-03-09 01:03:00.720639,Open
+349,101,Test Engineer Internship,Full-time,Demo,Pune,"₹ 20,000",2026-01-15 01:03:00.720639,Expired
+350,104,Demigod,Full-time,Creative Studios Inc,Pune,₹ 4 LPA,2026-03-29 01:03:00.720639,Open
+351,103,Test Engineer Internship,Full-time,Demo,Narniwadi,"₹ 10,000",2026-03-26 01:03:00.720639,Open
+352,104,Software Engineer,Internship,TechCorp Pvt Ltd,SCOE Campus,"₹ 10,000",2026-01-03 01:03:00.720639,Expired
+353,102,Test Engineer Internship,Internship,TechCorp Pvt Ltd,Pune,"₹ 56,546",2026-02-22 01:03:00.720639,Open
+354,101,Test Engineer Internship,Full-time,Creative Studios Inc,Pune,"₹ 20,000",2026-04-13 01:03:00.720639,Open
+355,102,Software Engineer,Full-time,Next Electronics,Pune,₹ 6 LPA,2026-01-23 01:03:00.720639,Expired
+356,102,Software Engineer,Internship,Next Electronics,"Austin, TX",₹ 6 LPA,2026-03-14 01:03:00.720639,Open
+357,103,UX Design Internship,Full-time,TechCorp Pvt Ltd,Narniwadi,₹ 4 LPA,2026-02-20 01:03:00.720639,Open
+358,101,COO,Full-time,Creative Studios Inc,"Austin, TX",₹ 4 LPA,2026-04-16 01:03:00.720639,Open
+359,104,Software Engineer II,Full-time,TCS,Narniwadi,₹ 6 LPA,2026-04-24 01:03:00.720639,Open
+360,103,UX Design Internship,Full-time,Creative Studios Inc,Pune,"₹ 56,546",2026-04-23 01:03:00.720639,Open
+361,104,Software Engineer,Full-time,TechCorp Pvt Ltd,"Austin, TX",₹ 4 LPA,2026-05-18 01:03:00.720639,Open
+362,104,Demigod,Internship,Google India,SCOE Campus,₹ 4 LPA,2026-01-10 01:03:00.720639,Expired
+363,101,UX Design Internship,Internship,Next Electronics,Pune,₹ 4 LPA,2026-01-17 01:03:00.720639,Expired
+364,103,Demigod,Internship,Demo,Pune,₹ 4 LPA,2026-05-26 01:03:00.720639,Open
+365,101,COO,Internship,Next Electronics,Narniwadi,"₹ 20,000",2026-04-15 01:03:00.720639,Open
+366,103,UX Design Internship,Internship,TechCorp Pvt Ltd,"Austin, TX","₹ 10,000",2026-03-22 01:03:00.720639,Open
+367,103,Software Engineer II,Internship,Google India,"San Francisco, CA","₹ 10,000",2026-02-22 01:03:00.720639,Open
+368,103,Software Engineer,Internship,Google India,Narniwadi,"₹ 10,000",2026-03-23 01:03:00.720639,Open
+369,104,Demigod,Full-time,Next Electronics,Pune,"₹ 56,546",2026-04-03 01:03:00.720639,Open
+370,103,Software Engineer II,Full-time,Google India,Narniwadi,₹ 4 LPA,2026-01-07 01:03:00.720639,Expired
+371,103,UX Design Internship,Full-time,Next Electronics,SCOE Campus,"₹ 56,546",2026-02-15 01:03:00.720639,Open
+372,104,Software Engineer,Full-time,Creative Studios Inc,"Austin, TX","₹ 56,546",2026-01-22 01:03:00.720639,Expired
+373,104,COO,Full-time,TCS,Pune,"₹ 56,546",2026-03-20 01:03:00.720639,Open
+374,104,Test Engineer Internship,Internship,Next Electronics,"Austin, TX","₹ 20,000",2026-05-23 01:03:00.720639,Open
+375,102,Software Engineer,Internship,TechCorp Pvt Ltd,"Austin, TX",₹ 6 LPA,2026-01-31 01:03:00.720639,Open
+376,101,UX Design Internship,Internship,TCS,Narniwadi,"₹ 10,000",2026-05-12 01:03:00.720639,Open
+377,101,COO,Full-time,TechCorp Pvt Ltd,"San Francisco, CA","₹ 56,546",2026-05-21 01:03:00.720639,Open
+378,104,UX Design Internship,Full-time,TechCorp Pvt Ltd,Narniwadi,"₹ 20,000",2026-04-19 01:03:00.720639,Open
+379,101,Software Engineer,Internship,Next Electronics,Pune,₹ 4 LPA,2026-05-02 01:03:00.720639,Open
+380,101,Software Engineer II,Internship,Next Electronics,Pune,"₹ 20,000",2026-04-21 01:03:00.720639,Open
+381,104,Demigod,Full-time,Next Electronics,"Austin, TX","₹ 56,546",2026-04-15 01:03:00.720639,Open
+382,101,Software Engineer,Internship,Creative Studios Inc,Narniwadi,"₹ 56,546",2026-01-18 01:03:00.720639,Expired
+383,103,UX Design Internship,Full-time,Next Electronics,SCOE Campus,₹ 6 LPA,2026-05-26 01:03:00.720639,Open
+384,103,Software Engineer II,Internship,TechCorp Pvt Ltd,Pune,₹ 4 LPA,2026-05-20 01:03:00.720639,Open
+385,102,Demigod,Internship,Creative Studios Inc,Pune,"₹ 20,000",2026-04-12 01:03:00.720639,Open
+386,104,Software Engineer II,Internship,Google India,"San Francisco, CA","₹ 20,000",2026-02-04 01:03:00.720639,Open
+387,104,Software Engineer II,Internship,TCS,Pune,"₹ 10,000",2026-05-15 01:03:00.720639,Open
+388,102,Software Engineer II,Internship,Demo,"San Francisco, CA","₹ 20,000",2026-03-30 01:03:00.720639,Open
+389,102,Test Engineer Internship,Internship,TechCorp Pvt Ltd,Pune,₹ 4 LPA,2026-03-06 01:03:00.720639,Open
+390,101,COO,Internship,Creative Studios Inc,Narniwadi,"₹ 10,000",2026-04-23 01:03:00.720639,Open
+391,104,Software Engineer II,Full-time,Demo,"Austin, TX","₹ 56,546",2026-02-27 01:03:00.720639,Open
+392,104,Software Engineer II,Internship,Creative Studios Inc,"San Francisco, CA","₹ 20,000",2026-03-23 01:03:00.720639,Open
+393,102,Software Engineer II,Full-time,Demo,"San Francisco, CA",₹ 4 LPA,2026-02-22 01:03:00.720639,Open
+394,104,Demigod,Full-time,TCS,SCOE Campus,"₹ 56,546",2026-02-24 01:03:00.720639,Open
+395,102,Software Engineer,Full-time,Demo,SCOE Campus,₹ 4 LPA,2026-04-12 01:03:00.720639,Open
+396,103,Software Engineer II,Internship,TechCorp Pvt Ltd,Pune,₹ 6 LPA,2026-03-07 01:03:00.720639,Open
+397,103,Test Engineer Internship,Internship,Creative Studios Inc,Pune,"₹ 20,000",2026-03-01 01:03:00.720639,Open
+398,102,Software Engineer II,Internship,Creative Studios Inc,SCOE Campus,"₹ 10,000",2026-04-06 01:03:00.720639,Open
+399,102,Software Engineer II,Internship,Demo,Narniwadi,₹ 4 LPA,2026-02-11 01:03:00.720639,Open
+400,102,Software Engineer II,Full-time,TCS,"San Francisco, CA",₹ 6 LPA,2026-04-22 01:03:00.720639,Open
+401,102,Software Engineer,Internship,Next Electronics,Pune,"₹ 20,000",2026-01-01 01:03:00.720639,Expired
+402,103,Software Engineer II,Full-time,Next Electronics,"Austin, TX","₹ 20,000",2026-01-28 01:03:00.720639,Expired
+403,104,UX Design Internship,Internship,Next Electronics,"Austin, TX",₹ 4 LPA,2026-03-05 01:03:00.720639,Open
+404,101,Test Engineer Internship,Internship,Next Electronics,Narniwadi,"₹ 20,000",2026-04-24 01:03:00.720639,Open
+405,102,Software Engineer,Full-time,Demo,SCOE Campus,"₹ 10,000",2026-02-07 01:03:00.720639,Open
+406,102,COO,Internship,Google India,SCOE Campus,"₹ 10,000",2026-02-02 01:03:00.720639,Open
+407,104,Test Engineer Internship,Full-time,Demo,"Austin, TX","₹ 10,000",2026-02-24 01:03:00.720639,Open
+408,103,Software Engineer,Internship,TechCorp Pvt Ltd,SCOE Campus,"₹ 56,546",2026-03-04 01:03:00.720639,Open
+409,102,UX Design Internship,Full-time,TCS,Pune,"₹ 10,000",2026-01-23 01:03:00.720639,Expired
+410,103,Software Engineer,Full-time,Google India,"Austin, TX",₹ 6 LPA,2026-02-17 01:03:00.720639,Open
+411,101,COO,Full-time,Next Electronics,Narniwadi,"₹ 20,000",2026-01-19 01:03:00.720639,Expired
+412,103,Test Engineer Internship,Full-time,TechCorp Pvt Ltd,SCOE Campus,₹ 4 LPA,2026-01-08 01:03:00.720639,Expired
+413,102,Demigod,Internship,Google India,"San Francisco, CA",₹ 6 LPA,2026-04-23 01:03:00.720639,Open
+414,103,Software Engineer,Internship,Creative Studios Inc,"Austin, TX",₹ 4 LPA,2026-03-13 01:03:00.720639,Open
+415,103,Test Engineer Internship,Internship,TechCorp Pvt Ltd,"San Francisco, CA",₹ 4 LPA,2026-04-04 01:03:00.720639,Open
+416,104,Software Engineer II,Internship,Next Electronics,Narniwadi,₹ 4 LPA,2026-01-28 01:03:00.720639,Expired
+417,103,Software Engineer,Internship,Demo,SCOE Campus,"₹ 10,000",2026-03-19 01:03:00.720639,Open
+418,102,UX Design Internship,Full-time,Demo,SCOE Campus,₹ 4 LPA,2026-01-22 01:03:00.720639,Expired
+419,103,UX Design Internship,Full-time,Creative Studios Inc,"Austin, TX",₹ 6 LPA,2026-05-28 01:03:00.720639,Open
+420,103,Demigod,Full-time,TCS,Narniwadi,"₹ 10,000",2026-02-20 01:03:00.720639,Open
+421,104,UX Design Internship,Internship,Demo,"Austin, TX",₹ 4 LPA,2026-03-24 01:03:00.720639,Open
+422,104,COO,Full-time,TCS,Narniwadi,₹ 6 LPA,2026-03-05 01:03:00.720639,Open
+423,104,Software Engineer II,Full-time,Creative Studios Inc,"San Francisco, CA","₹ 20,000",2026-05-14 01:03:00.720639,Open
+424,101,Software Engineer II,Internship,Google India,"San Francisco, CA","₹ 56,546",2026-05-09 01:03:00.720639,Open
+425,101,Software Engineer II,Full-time,TechCorp Pvt Ltd,"Austin, TX","₹ 20,000",2026-01-03 01:03:00.720639,Expired
+426,104,Demigod,Internship,TCS,"San Francisco, CA","₹ 20,000",2026-03-08 01:03:00.720639,Open
+427,103,UX Design Internship,Internship,Creative Studios Inc,Pune,"₹ 10,000",2026-01-29 01:03:00.720639,Expired
+428,103,COO,Internship,Google India,"Austin, TX",₹ 4 LPA,2026-03-20 01:03:00.721635,Open
+429,102,Test Engineer Internship,Full-time,Next Electronics,Pune,₹ 4 LPA,2026-02-10 01:03:00.721635,Open
+430,102,Software Engineer,Internship,TCS,Narniwadi,₹ 4 LPA,2026-01-28 01:03:00.721635,Expired
+431,102,Demigod,Full-time,Next Electronics,"Austin, TX","₹ 20,000",2026-01-14 01:03:00.721635,Expired
+432,102,Software Engineer,Full-time,Demo,SCOE Campus,₹ 4 LPA,2026-02-28 01:03:00.721635,Open
+433,102,Demigod,Full-time,Creative Studios Inc,Pune,₹ 4 LPA,2026-02-09 01:03:00.721635,Open
+434,104,Software Engineer II,Full-time,TCS,SCOE Campus,"₹ 56,546",2026-04-30 01:03:00.721635,Open
+435,101,Software Engineer,Internship,Demo,Pune,"₹ 10,000",2026-03-17 01:03:00.721635,Open
+436,104,Test Engineer Internship,Internship,Demo,Pune,"₹ 20,000",2026-01-13 01:03:00.721635,Expired
+437,103,Test Engineer Internship,Full-time,TCS,"Austin, TX","₹ 20,000",2026-04-20 01:03:00.721635,Open
+438,103,Software Engineer,Full-time,Google India,SCOE Campus,₹ 6 LPA,2026-02-01 01:03:00.721635,Open
+439,102,Demigod,Internship,TCS,Pune,₹ 4 LPA,2026-04-10 01:03:00.721635,Open
+440,102,Demigod,Internship,Creative Studios Inc,"San Francisco, CA",₹ 6 LPA,2026-05-15 01:03:00.721635,Open
+441,102,UX Design Internship,Internship,Google India,Narniwadi,"₹ 20,000",2026-01-02 01:03:00.721635,Expired
+442,103,UX Design Internship,Full-time,TCS,Pune,"₹ 20,000",2026-05-02 01:03:00.721635,Open
+443,102,UX Design Internship,Full-time,TCS,SCOE Campus,"₹ 56,546",2026-04-27 01:03:00.721635,Open
+444,102,COO,Full-time,TechCorp Pvt Ltd,"Austin, TX","₹ 10,000",2026-04-19 01:03:00.721635,Open
+445,102,COO,Internship,TCS,SCOE Campus,"₹ 20,000",2026-01-01 01:03:00.721635,Expired
+446,101,Test Engineer Internship,Internship,Creative Studios Inc,Narniwadi,"₹ 56,546",2026-02-02 01:03:00.721635,Open
+447,104,Demigod,Full-time,Next Electronics,Narniwadi,"₹ 10,000",2026-05-08 01:03:00.721635,Open
+448,101,Demigod,Full-time,Next Electronics,"San Francisco, CA",₹ 6 LPA,2026-01-11 01:03:00.721635,Expired
+449,103,Software Engineer II,Internship,Demo,"Austin, TX","₹ 20,000",2026-04-21 01:03:00.721635,Open
+450,104,Software Engineer,Internship,Demo,Narniwadi,₹ 6 LPA,2026-03-14 01:03:00.721635,Open
+451,103,UX Design Internship,Internship,Google India,Narniwadi,₹ 4 LPA,2026-01-05 01:03:00.721635,Expired
+452,101,Software Engineer II,Internship,TCS,Pune,₹ 4 LPA,2026-04-29 01:03:00.721635,Open
+453,103,Test Engineer Internship,Internship,Demo,Pune,"₹ 20,000",2026-03-06 01:03:00.721635,Open
+454,102,UX Design Internship,Internship,TechCorp Pvt Ltd,SCOE Campus,₹ 4 LPA,2026-04-27 01:03:00.721635,Open
+455,101,Software Engineer II,Internship,Next Electronics,"San Francisco, CA","₹ 20,000",2026-05-28 01:03:00.721635,Open
+456,101,COO,Full-time,Demo,SCOE Campus,₹ 4 LPA,2026-01-14 01:03:00.721635,Expired
+457,104,COO,Full-time,TCS,SCOE Campus,₹ 6 LPA,2026-01-21 01:03:00.721635,Expired
+458,101,Software Engineer II,Internship,TechCorp Pvt Ltd,"Austin, TX",₹ 4 LPA,2026-03-01 01:03:00.721635,Open
+459,101,Software Engineer,Internship,Creative Studios Inc,"Austin, TX","₹ 20,000",2026-02-03 01:03:00.721635,Open
+460,103,Test Engineer Internship,Full-time,Google India,SCOE Campus,"₹ 56,546",2026-02-12 01:03:00.721635,Open
+461,102,COO,Full-time,TechCorp Pvt Ltd,Narniwadi,"₹ 56,546",2026-02-25 01:03:00.721635,Open
+462,103,Software Engineer,Internship,Demo,Narniwadi,"₹ 10,000",2026-02-04 01:03:00.721635,Open
+463,103,Demigod,Full-time,Next Electronics,Narniwadi,"₹ 20,000",2026-05-22 01:03:00.721635,Open
+464,104,Demigod,Full-time,TCS,SCOE Campus,"₹ 10,000",2026-01-25 01:03:00.721635,Expired
+465,104,Demigod,Full-time,TechCorp Pvt Ltd,Narniwadi,₹ 6 LPA,2026-01-24 01:03:00.721635,Expired
+466,102,Demigod,Full-time,Google India,"San Francisco, CA",₹ 6 LPA,2026-04-11 01:03:00.721635,Open
+467,101,COO,Full-time,TCS,"San Francisco, CA","₹ 10,000",2026-01-05 01:03:00.721635,Expired
+468,101,Software Engineer II,Full-time,Next Electronics,"Austin, TX","₹ 56,546",2026-01-28 01:03:00.721635,Expired
+469,103,UX Design Internship,Internship,TCS,Narniwadi,₹ 4 LPA,2026-02-23 01:03:00.721635,Open
+470,104,Software Engineer,Full-time,Next Electronics,Narniwadi,"₹ 10,000",2026-02-19 01:03:00.721635,Open
+471,104,UX Design Internship,Internship,Creative Studios Inc,SCOE Campus,₹ 6 LPA,2025-12-31 01:03:00.721635,Expired
+472,102,COO,Internship,Creative Studios Inc,Narniwadi,₹ 6 LPA,2026-05-11 01:03:00.721635,Open
+473,102,COO,Internship,Creative Studios Inc,Pune,₹ 6 LPA,2026-01-10 01:03:00.721635,Expired
+474,101,Software Engineer II,Full-time,Demo,SCOE Campus,"₹ 56,546",2026-04-12 01:03:00.721635,Open
+475,101,Demigod,Internship,Google India,Pune,"₹ 10,000",2026-04-03 01:03:00.721635,Open
+476,103,Software Engineer,Internship,TCS,SCOE Campus,"₹ 10,000",2026-05-09 01:03:00.721635,Open
+477,104,Test Engineer Internship,Full-time,TCS,Pune,₹ 4 LPA,2026-05-26 01:03:00.721635,Open
+478,104,Demigod,Internship,TCS,"San Francisco, CA",₹ 4 LPA,2026-04-20 01:03:00.721635,Open
+479,102,Test Engineer Internship,Full-time,Demo,"Austin, TX","₹ 10,000",2026-04-03 01:03:00.721635,Open
+480,101,Test Engineer Internship,Internship,Google India,Narniwadi,₹ 6 LPA,2026-02-04 01:03:00.721635,Open
+481,101,COO,Full-time,Creative Studios Inc,SCOE Campus,₹ 4 LPA,2026-02-04 01:03:00.721635,Open
+482,104,Demigod,Full-time,TCS,Narniwadi,"₹ 56,546",2026-02-17 01:03:00.721635,Open
+483,102,Software Engineer,Internship,Demo,Narniwadi,"₹ 56,546",2026-01-25 01:03:00.721635,Expired
+484,104,UX Design Internship,Full-time,TCS,"San Francisco, CA","₹ 10,000",2026-04-07 01:03:00.721635,Open
+485,103,Software Engineer,Internship,Next Electronics,"Austin, TX","₹ 20,000",2026-04-30 01:03:00.721635,Open
+486,103,Software Engineer II,Full-time,Next Electronics,Pune,"₹ 20,000",2026-05-17 01:03:00.721635,Open
+487,102,COO,Internship,Google India,Narniwadi,₹ 4 LPA,2026-01-10 01:03:00.721635,Expired
+488,103,Software Engineer II,Full-time,Google India,"Austin, TX","₹ 10,000",2026-01-01 01:03:00.721635,Expired
+489,102,Demigod,Full-time,Demo,"Austin, TX",₹ 4 LPA,2026-02-23 01:03:00.721635,Open
+490,103,Test Engineer Internship,Internship,TechCorp Pvt Ltd,Pune,"₹ 56,546",2026-01-10 01:03:00.721635,Expired
+491,102,COO,Internship,TCS,"San Francisco, CA","₹ 10,000",2026-02-20 01:03:00.721635,Open
+492,101,Demigod,Full-time,Demo,Narniwadi,₹ 4 LPA,2026-04-17 01:03:00.721635,Open
+493,101,Software Engineer II,Full-time,Creative Studios Inc,"San Francisco, CA",₹ 6 LPA,2026-01-20 01:03:00.721635,Expired
+494,101,Demigod,Internship,Next Electronics,Pune,₹ 4 LPA,2026-04-12 01:03:00.721635,Open
+495,102,UX Design Internship,Internship,TechCorp Pvt Ltd,SCOE Campus,"₹ 20,000",2026-01-08 01:03:00.721635,Expired
+496,101,Software Engineer,Full-time,Demo,Narniwadi,"₹ 56,546",2026-01-28 01:03:00.721635,Expired
+497,102,Software Engineer II,Full-time,Google India,"San Francisco, CA",₹ 6 LPA,2026-01-10 01:03:00.721635,Expired
+498,102,Software Engineer II,Internship,TCS,SCOE Campus,"₹ 56,546",2026-05-28 01:03:00.721635,Open
+499,104,Software Engineer,Internship,Next Electronics,SCOE Campus,"₹ 20,000",2026-03-17 01:03:00.721635,Open
+500,104,Software Engineer II,Internship,Google India,"Austin, TX",₹ 4 LPA,2026-05-21 01:03:00.721635,Open
+501,104,UX Design Internship,Full-time,TCS,"Austin, TX",₹ 4 LPA,2026-05-23 01:03:00.721635,Open
+502,103,UX Design Internship,Full-time,Creative Studios Inc,SCOE Campus,"₹ 20,000",2026-04-02 01:03:00.721635,Open
+503,102,Test Engineer Internship,Internship,TechCorp Pvt Ltd,SCOE Campus,₹ 4 LPA,2026-01-21 01:03:00.721635,Expired
+504,101,Test Engineer Internship,Internship,Google India,SCOE Campus,₹ 6 LPA,2026-03-05 01:03:00.721635,Open
+505,104,UX Design Internship,Full-time,Creative Studios Inc,"San Francisco, CA","₹ 10,000",2026-01-18 01:03:00.721635,Expired
+506,102,Software Engineer,Internship,TCS,Narniwadi,"₹ 20,000",2026-04-28 01:03:00.721635,Open
+507,101,Software Engineer,Internship,Creative Studios Inc,"San Francisco, CA","₹ 20,000",2026-03-06 01:03:00.721635,Open
+508,102,Demigod,Full-time,Demo,"San Francisco, CA","₹ 10,000",2026-04-29 01:03:00.721635,Open
+509,103,Demigod,Full-time,TechCorp Pvt Ltd,SCOE Campus,"₹ 56,546",2026-05-07 01:03:00.721635,Open
+510,103,Demigod,Full-time,Next Electronics,SCOE Campus,"₹ 56,546",2026-05-29 01:03:00.721635,Open
+511,101,UX Design Internship,Full-time,Google India,Narniwadi,"₹ 10,000",2026-02-25 01:03:00.721635,Open
+512,103,Software Engineer,Internship,Next Electronics,"San Francisco, CA","₹ 10,000",2026-04-30 01:03:00.721635,Open
+513,104,COO,Full-time,Next Electronics,"San Francisco, CA","₹ 10,000",2026-03-07 01:03:00.721635,Open
+514,102,Demigod,Internship,Google India,Pune,"₹ 10,000",2026-01-02 01:03:00.721635,Expired
+515,104,COO,Full-time,Google India,"San Francisco, CA","₹ 20,000",2026-03-02 01:03:00.721635,Open
+516,103,COO,Internship,TechCorp Pvt Ltd,SCOE Campus,"₹ 56,546",2026-04-13 01:03:00.721635,Open
+517,102,COO,Internship,Next Electronics,Pune,₹ 6 LPA,2026-01-17 01:03:00.721635,Expired
+518,104,Test Engineer Internship,Full-time,Next Electronics,Narniwadi,₹ 6 LPA,2026-02-25 01:03:00.721635,Open
+519,103,Software Engineer,Full-time,TechCorp Pvt Ltd,Narniwadi,"₹ 56,546",2026-03-20 01:03:00.721635,Open
+520,101,Test Engineer Internship,Full-time,Demo,Pune,₹ 6 LPA,2026-02-14 01:03:00.721635,Open
+521,102,Demigod,Internship,Next Electronics,Narniwadi,"₹ 56,546",2026-02-19 01:03:00.721635,Open
+522,104,COO,Internship,Creative Studios Inc,"Austin, TX",₹ 4 LPA,2026-02-04 01:03:00.721635,Open
+523,102,COO,Full-time,Creative Studios Inc,"Austin, TX","₹ 56,546",2026-03-04 01:03:00.721635,Open
+524,102,Demigod,Full-time,Google India,Pune,₹ 4 LPA,2026-03-03 01:03:00.721635,Open
+525,102,UX Design Internship,Full-time,TCS,Pune,"₹ 56,546",2025-12-30 01:03:00.721635,Expired
+526,103,UX Design Internship,Internship,TCS,Narniwadi,"₹ 56,546",2026-02-24 01:03:00.721635,Open
+527,102,Software Engineer,Internship,Creative Studios Inc,SCOE Campus,₹ 6 LPA,2026-03-21 01:03:00.721635,Open
+528,102,Demigod,Internship,Demo,Pune,"₹ 10,000",2026-04-17 01:03:00.721635,Open
+529,102,UX Design Internship,Full-time,Google India,Narniwadi,₹ 4 LPA,2026-05-01 01:03:00.721635,Open
+530,104,Software Engineer,Full-time,Next Electronics,"Austin, TX","₹ 20,000",2026-02-18 01:03:00.721635,Open
+531,104,UX Design Internship,Full-time,TechCorp Pvt Ltd,"Austin, TX","₹ 20,000",2026-01-20 01:03:00.721635,Expired
+532,103,Software Engineer,Internship,Creative Studios Inc,"Austin, TX","₹ 56,546",2026-04-11 01:03:00.721635,Open
+533,104,UX Design Internship,Internship,Creative Studios Inc,Narniwadi,₹ 4 LPA,2026-01-28 01:03:00.721635,Expired
+534,101,COO,Internship,Demo,"San Francisco, CA","₹ 56,546",2026-01-13 01:03:00.721635,Expired
+535,104,Software Engineer II,Full-time,TechCorp Pvt Ltd,"Austin, TX",₹ 6 LPA,2026-05-15 01:03:00.721635,Open
+536,104,Demigod,Internship,Demo,SCOE Campus,"₹ 20,000",2026-03-02 01:03:00.721635,Open
+537,103,Demigod,Internship,Next Electronics,"Austin, TX",₹ 4 LPA,2026-02-07 01:03:00.721635,Open
+538,103,Demigod,Internship,Demo,"San Francisco, CA","₹ 10,000",2026-05-25 01:03:00.721635,Open
+539,102,Software Engineer,Full-time,Google India,Pune,₹ 6 LPA,2026-01-20 01:03:00.721635,Expired
+540,103,Test Engineer Internship,Internship,Demo,"San Francisco, CA",₹ 6 LPA,2026-01-09 01:03:00.721635,Expired
+541,104,Software Engineer,Internship,TCS,Pune,"₹ 56,546",2026-03-21 01:03:00.721635,Open
+542,101,COO,Full-time,Demo,Narniwadi,₹ 4 LPA,2026-01-11 01:03:00.721635,Expired
+543,101,COO,Full-time,Next Electronics,"San Francisco, CA",₹ 4 LPA,2026-04-18 01:03:00.721635,Open
+544,102,UX Design Internship,Internship,Creative Studios Inc,Narniwadi,"₹ 56,546",2026-04-23 01:03:00.721635,Open
+545,101,COO,Internship,Next Electronics,"Austin, TX",₹ 6 LPA,2026-01-17 01:03:00.721635,Expired
+546,101,Software Engineer,Full-time,Demo,SCOE Campus,₹ 6 LPA,2026-01-24 01:03:00.721635,Expired
+547,102,Software Engineer,Internship,TechCorp Pvt Ltd,Pune,₹ 6 LPA,2026-02-25 01:03:00.721635,Open
+548,102,UX Design Internship,Internship,TCS,Pune,₹ 4 LPA,2026-01-03 01:03:00.721635,Expired
+549,102,Software Engineer II,Internship,Google India,"San Francisco, CA","₹ 56,546",2026-03-09 01:03:00.721635,Open
+550,103,COO,Full-time,TechCorp Pvt Ltd,"Austin, TX",₹ 6 LPA,2026-03-02 01:03:00.721635,Open
+551,101,COO,Internship,Demo,"Austin, TX","₹ 10,000",2026-04-12 01:03:00.721635,Open
+552,104,Software Engineer,Full-time,TechCorp Pvt Ltd,SCOE Campus,"₹ 20,000",2026-02-18 01:03:00.721635,Open
+553,102,UX Design Internship,Full-time,Demo,SCOE Campus,"₹ 20,000",2026-05-17 01:03:00.721635,Open
+554,103,Software Engineer,Full-time,Creative Studios Inc,SCOE Campus,"₹ 10,000",2026-05-08 01:03:00.721635,Open
+555,101,COO,Full-time,TechCorp Pvt Ltd,"Austin, TX",₹ 4 LPA,2026-03-19 01:03:00.721635,Open
+556,102,COO,Full-time,TechCorp Pvt Ltd,"San Francisco, CA",₹ 4 LPA,2026-02-16 01:03:00.721635,Open
+557,102,Software Engineer,Internship,TechCorp Pvt Ltd,SCOE Campus,₹ 4 LPA,2026-05-20 01:03:00.721635,Open
+558,103,Software Engineer,Internship,Demo,"San Francisco, CA","₹ 56,546",2026-02-22 01:03:00.721635,Open
+559,104,Software Engineer II,Full-time,Demo,SCOE Campus,₹ 6 LPA,2026-05-28 01:03:00.721635,Open
+560,102,Software Engineer II,Full-time,TechCorp Pvt Ltd,"Austin, TX",₹ 4 LPA,2026-05-21 01:03:00.721635,Open
+561,104,COO,Full-time,Demo,Narniwadi,"₹ 56,546",2026-04-01 01:03:00.721635,Open
+562,104,Test Engineer Internship,Full-time,TCS,"San Francisco, CA","₹ 56,546",2026-03-14 01:03:00.721635,Open
+563,103,COO,Full-time,Demo,Narniwadi,"₹ 10,000",2026-03-24 01:03:00.721635,Open
+564,101,UX Design Internship,Internship,Next Electronics,Pune,₹ 6 LPA,2026-01-26 01:03:00.721635,Expired
+565,102,Software Engineer,Full-time,Creative Studios Inc,Pune,"₹ 10,000",2026-03-28 01:03:00.721635,Open
+566,104,Software Engineer II,Full-time,TechCorp Pvt Ltd,Pune,"₹ 10,000",2026-04-02 01:03:00.721635,Open
+567,102,Software Engineer II,Full-time,TCS,"San Francisco, CA","₹ 20,000",2026-05-19 01:03:00.721635,Open
+568,103,Test Engineer Internship,Internship,TechCorp Pvt Ltd,"Austin, TX",₹ 6 LPA,2026-05-21 01:03:00.721635,Open
+569,103,Software Engineer,Full-time,Next Electronics,Narniwadi,₹ 4 LPA,2026-02-14 01:03:00.721635,Open
+570,101,Demigod,Internship,Next Electronics,SCOE Campus,"₹ 56,546",2026-05-01 01:03:00.721635,Open
+571,102,UX Design Internship,Internship,Demo,SCOE Campus,₹ 6 LPA,2026-05-13 01:03:00.721635,Open
+572,103,COO,Internship,TechCorp Pvt Ltd,Narniwadi,₹ 6 LPA,2026-03-23 01:03:00.721635,Open
+573,102,Software Engineer II,Internship,Creative Studios Inc,"Austin, TX",₹ 4 LPA,2026-02-13 01:03:00.721635,Open
+574,102,Software Engineer,Full-time,TCS,Pune,₹ 4 LPA,2026-05-22 01:03:00.721635,Open
+575,103,COO,Full-time,Next Electronics,SCOE Campus,₹ 4 LPA,2026-04-20 01:03:00.721635,Open
+576,103,Software Engineer,Internship,Creative Studios Inc,Pune,"₹ 56,546",2026-01-26 01:03:00.721635,Expired
+577,101,Test Engineer Internship,Internship,Creative Studios Inc,"Austin, TX",₹ 4 LPA,2026-05-14 01:03:00.721635,Open
+578,102,Software Engineer II,Internship,TechCorp Pvt Ltd,"Austin, TX",₹ 6 LPA,2026-02-04 01:03:00.721635,Open
+579,104,Demigod,Full-time,Creative Studios Inc,"Austin, TX","₹ 56,546",2026-02-07 01:03:00.721635,Open
+580,102,Software Engineer,Full-time,Demo,"Austin, TX",₹ 6 LPA,2026-05-24 01:03:00.721635,Open
+581,104,UX Design Internship,Full-time,Next Electronics,SCOE Campus,"₹ 20,000",2026-04-01 01:03:00.721635,Open
+582,104,UX Design Internship,Full-time,Demo,Pune,"₹ 10,000",2026-05-13 01:03:00.721635,Open
+583,104,UX Design Internship,Full-time,Next Electronics,"Austin, TX",₹ 4 LPA,2026-02-27 01:03:00.721635,Open
+584,103,Test Engineer Internship,Internship,Google India,SCOE Campus,"₹ 20,000",2026-01-17 01:03:00.721635,Expired
+585,101,Software Engineer,Internship,Next Electronics,Narniwadi,"₹ 56,546",2026-01-10 01:03:00.721635,Expired
+586,101,Software Engineer II,Full-time,Demo,"San Francisco, CA",₹ 6 LPA,2026-01-29 01:03:00.721635,Expired
+587,101,UX Design Internship,Full-time,Next Electronics,SCOE Campus,₹ 6 LPA,2026-03-24 01:03:00.721635,Open
+588,103,UX Design Internship,Internship,Creative Studios Inc,"Austin, TX",₹ 6 LPA,2026-01-09 01:03:00.721635,Expired
+589,101,Test Engineer Internship,Internship,Demo,Narniwadi,"₹ 10,000",2026-03-13 01:03:00.721635,Open
+590,103,Test Engineer Internship,Internship,Demo,Narniwadi,"₹ 10,000",2026-05-10 01:03:00.721635,Open
+591,103,UX Design Internship,Full-time,Creative Studios Inc,Narniwadi,"₹ 56,546",2026-03-17 01:03:00.721635,Open
+592,101,Software Engineer II,Internship,Google India,Narniwadi,₹ 4 LPA,2026-01-15 01:03:00.721635,Expired
+593,103,UX Design Internship,Full-time,Creative Studios Inc,Pune,₹ 4 LPA,2026-02-04 01:03:00.721635,Open
+594,102,Test Engineer Internship,Internship,Next Electronics,"San Francisco, CA","₹ 56,546",2026-01-31 01:03:00.721635,Open
+595,101,Software Engineer,Internship,TechCorp Pvt Ltd,Narniwadi,"₹ 56,546",2026-03-26 01:03:00.721635,Open
+596,102,Software Engineer,Full-time,Creative Studios Inc,Narniwadi,₹ 6 LPA,2026-04-15 01:03:00.721635,Open
+597,102,Software Engineer,Full-time,Google India,Pune,"₹ 56,546",2026-04-23 01:03:00.721635,Open
+598,101,COO,Full-time,TechCorp Pvt Ltd,"San Francisco, CA","₹ 20,000",2026-02-25 01:03:00.721635,Open
+599,101,Software Engineer,Full-time,TCS,Narniwadi,₹ 4 LPA,2026-03-26 01:03:00.721635,Open
+600,101,Test Engineer Internship,Full-time,Google India,SCOE Campus,₹ 6 LPA,2026-01-31 01:03:00.721635,Open
+601,102,Demigod,Full-time,TCS,SCOE Campus,"₹ 10,000",2026-04-20 01:03:00.721635,Open
+602,101,UX Design Internship,Internship,Google India,"Austin, TX","₹ 20,000",2026-01-12 01:03:00.721635,Expired
+603,101,COO,Full-time,Google India,SCOE Campus,"₹ 20,000",2026-04-03 01:03:00.721635,Open
+604,101,Test Engineer Internship,Internship,Google India,Narniwadi,₹ 6 LPA,2026-05-02 01:03:00.721635,Open
+605,101,COO,Full-time,TCS,"San Francisco, CA",₹ 4 LPA,2026-02-16 01:03:00.721635,Open
+606,104,Test Engineer Internship,Full-time,Creative Studios Inc,Narniwadi,"₹ 20,000",2026-01-08 01:03:00.721635,Expired
+607,102,COO,Internship,TechCorp Pvt Ltd,"San Francisco, CA",₹ 6 LPA,2026-01-24 01:03:00.721635,Expired
+608,101,Software Engineer II,Internship,Next Electronics,"San Francisco, CA","₹ 20,000",2026-01-14 01:03:00.721635,Expired
+609,103,Demigod,Full-time,Creative Studios Inc,"Austin, TX","₹ 56,546",2026-04-11 01:03:00.721635,Open
+610,104,Demigod,Internship,TCS,"Austin, TX","₹ 56,546",2026-03-19 01:03:00.721635,Open
+611,101,Software Engineer II,Internship,Creative Studios Inc,SCOE Campus,"₹ 10,000",2026-04-26 01:03:00.721635,Open
+612,102,Test Engineer Internship,Full-time,Google India,Pune,"₹ 10,000",2026-03-09 01:03:00.721635,Open
+613,102,COO,Internship,Google India,SCOE Campus,"₹ 56,546",2026-01-10 01:03:00.721635,Expired
+614,104,UX Design Internship,Full-time,TCS,"Austin, TX",₹ 4 LPA,2026-02-05 01:03:00.721635,Open
+615,103,Software Engineer,Full-time,TechCorp Pvt Ltd,"Austin, TX","₹ 20,000",2026-02-19 01:03:00.721635,Open
+616,103,Software Engineer,Internship,TechCorp Pvt Ltd,Narniwadi,"₹ 56,546",2026-05-02 01:03:00.721635,Open
+617,101,UX Design Internship,Internship,Demo,Narniwadi,"₹ 20,000",2026-05-26 01:03:00.721635,Open
+618,101,UX Design Internship,Internship,Google India,"San Francisco, CA","₹ 20,000",2026-04-07 01:03:00.721635,Open
+619,102,Software Engineer,Full-time,TechCorp Pvt Ltd,"Austin, TX",₹ 4 LPA,2026-04-10 01:03:00.721635,Open
+620,103,COO,Full-time,Next Electronics,"Austin, TX","₹ 56,546",2026-03-10 01:03:00.721635,Open
+621,101,Software Engineer,Internship,Creative Studios Inc,"Austin, TX","₹ 20,000",2026-02-15 01:03:00.721635,Open
+622,101,UX Design Internship,Full-time,Google India,"San Francisco, CA","₹ 10,000",2026-01-02 01:03:00.721635,Expired
+623,103,Demigod,Full-time,Demo,"San Francisco, CA",₹ 6 LPA,2026-03-17 01:03:00.721635,Open
+624,101,Demigod,Full-time,TCS,"Austin, TX","₹ 10,000",2026-04-20 01:03:00.721635,Open
+625,102,COO,Full-time,TechCorp Pvt Ltd,SCOE Campus,"₹ 20,000",2026-04-03 01:03:00.721635,Open
+626,104,Demigod,Full-time,Creative Studios Inc,SCOE Campus,"₹ 10,000",2026-04-08 01:03:00.721635,Open
+627,103,UX Design Internship,Full-time,Google India,Pune,"₹ 10,000",2026-02-27 01:03:00.721635,Open
+628,103,Software Engineer II,Full-time,Demo,SCOE Campus,"₹ 20,000",2026-03-10 01:03:00.721635,Open
+629,104,Demigod,Full-time,Google India,"San Francisco, CA","₹ 20,000",2026-04-26 01:03:00.721635,Open
+630,103,Software Engineer II,Internship,Creative Studios Inc,Pune,"₹ 56,546",2026-04-25 01:03:00.721635,Open
+631,101,UX Design Internship,Full-time,Demo,SCOE Campus,"₹ 56,546",2026-02-13 01:03:00.721635,Open
+632,103,Demigod,Internship,Demo,Pune,₹ 4 LPA,2026-04-08 01:03:00.721635,Open
+633,101,Test Engineer Internship,Internship,Demo,"Austin, TX","₹ 56,546",2026-01-17 01:03:00.721635,Expired
+634,104,Test Engineer Internship,Full-time,Next Electronics,"Austin, TX","₹ 56,546",2026-03-01 01:03:00.721635,Open
+635,102,Demigod,Internship,Creative Studios Inc,SCOE Campus,₹ 6 LPA,2026-03-23 01:03:00.721635,Open
+636,102,Software Engineer,Internship,TCS,Pune,₹ 6 LPA,2026-05-15 01:03:00.721635,Open
+637,102,Demigod,Full-time,Next Electronics,SCOE Campus,"₹ 10,000",2026-01-04 01:03:00.721635,Expired
+638,104,UX Design Internship,Full-time,TCS,SCOE Campus,₹ 4 LPA,2026-02-09 01:03:00.721635,Open
+639,101,Software Engineer II,Internship,TechCorp Pvt Ltd,"San Francisco, CA",₹ 4 LPA,2026-02-21 01:03:00.721635,Open
+640,102,Software Engineer II,Internship,TechCorp Pvt Ltd,"Austin, TX","₹ 56,546",2026-03-08 01:03:00.721635,Open
+641,104,Demigod,Internship,TCS,Pune,"₹ 20,000",2026-01-09 01:03:00.721635,Expired
+642,102,Demigod,Internship,Creative Studios Inc,Pune,"₹ 56,546",2026-04-27 01:03:00.721635,Open
+643,104,COO,Internship,Next Electronics,Narniwadi,₹ 4 LPA,2026-04-02 01:03:00.721635,Open
+644,104,COO,Internship,Google India,SCOE Campus,₹ 4 LPA,2026-03-06 01:03:00.721635,Open
+645,103,Software Engineer II,Full-time,Next Electronics,Pune,₹ 6 LPA,2026-01-16 01:03:00.721635,Expired
+646,104,COO,Internship,Next Electronics,Narniwadi,₹ 6 LPA,2026-01-25 01:03:00.721635,Expired
+647,104,Test Engineer Internship,Internship,Creative Studios Inc,SCOE Campus,₹ 6 LPA,2026-03-07 01:03:00.721635,Open
+648,103,COO,Internship,Google India,"San Francisco, CA","₹ 56,546",2026-03-14 01:03:00.721635,Open
+649,104,Software Engineer,Internship,Next Electronics,Narniwadi,₹ 6 LPA,2026-05-24 01:03:00.721635,Open
+650,102,Demigod,Full-time,TCS,"San Francisco, CA","₹ 56,546",2026-03-13 01:03:00.721635,Open
+651,102,Software Engineer II,Internship,Next Electronics,"Austin, TX","₹ 10,000",2025-12-31 01:03:00.721635,Expired
+652,102,Software Engineer,Internship,Demo,"San Francisco, CA",₹ 4 LPA,2026-04-27 01:03:00.721635,Open
+653,103,Software Engineer II,Internship,TCS,Narniwadi,₹ 4 LPA,2026-01-17 01:03:00.721635,Expired
+654,102,Test Engineer Internship,Full-time,Creative Studios Inc,SCOE Campus,"₹ 10,000",2026-01-05 01:03:00.721635,Expired
+655,101,Software Engineer II,Internship,Creative Studios Inc,"San Francisco, CA","₹ 20,000",2026-03-25 01:03:00.721635,Open
+656,101,COO,Full-time,TechCorp Pvt Ltd,SCOE Campus,"₹ 20,000",2026-04-12 01:03:00.721635,Open
+657,104,Software Engineer II,Full-time,TCS,"Austin, TX","₹ 10,000",2026-02-05 01:03:00.721635,Open
+658,102,Software Engineer,Internship,Demo,SCOE Campus,"₹ 56,546",2026-02-07 01:03:00.721635,Open
+659,102,Demigod,Internship,Creative Studios Inc,Narniwadi,"₹ 10,000",2026-03-10 01:03:00.721635,Open
+660,103,Test Engineer Internship,Internship,TechCorp Pvt Ltd,Pune,"₹ 20,000",2026-01-23 01:03:00.721635,Expired
+661,103,COO,Internship,TCS,"San Francisco, CA",₹ 4 LPA,2026-05-04 01:03:00.721635,Open
+662,103,Software Engineer II,Internship,Demo,"San Francisco, CA","₹ 10,000",2026-01-13 01:03:00.721635,Expired
+663,101,Demigod,Full-time,TCS,SCOE Campus,"₹ 10,000",2026-02-22 01:03:00.721635,Open
+664,102,UX Design Internship,Internship,TechCorp Pvt Ltd,Narniwadi,"₹ 20,000",2026-01-28 01:03:00.721635,Expired
+665,102,Software Engineer II,Internship,Next Electronics,Narniwadi,₹ 6 LPA,2026-03-28 01:03:00.721635,Open
+666,102,UX Design Internship,Full-time,Next Electronics,"Austin, TX","₹ 20,000",2026-02-19 01:03:00.721635,Open
+667,103,UX Design Internship,Internship,TCS,SCOE Campus,"₹ 10,000",2026-01-04 01:03:00.721635,Expired
+668,101,Software Engineer II,Internship,Creative Studios Inc,"Austin, TX","₹ 20,000",2026-03-05 01:03:00.721635,Open
+669,101,UX Design Internship,Internship,Creative Studios Inc,SCOE Campus,"₹ 56,546",2026-02-14 01:03:00.721635,Open
+670,103,COO,Internship,TechCorp Pvt Ltd,"San Francisco, CA",₹ 4 LPA,2026-02-24 01:03:00.721635,Open
+671,104,UX Design Internship,Internship,Google India,"Austin, TX",₹ 6 LPA,2026-03-20 01:03:00.721635,Open
+672,104,UX Design Internship,Internship,Demo,"San Francisco, CA","₹ 20,000",2026-05-04 01:03:00.721635,Open
+673,102,Software Engineer II,Full-time,Demo,SCOE Campus,₹ 4 LPA,2026-01-09 01:03:00.721635,Expired
+674,101,COO,Full-time,Creative Studios Inc,SCOE Campus,₹ 4 LPA,2026-01-20 01:03:00.721635,Expired
+675,103,Software Engineer II,Internship,TechCorp Pvt Ltd,"Austin, TX","₹ 10,000",2025-12-31 01:03:00.721635,Expired
+676,101,Test Engineer Internship,Full-time,Next Electronics,"Austin, TX","₹ 10,000",2026-01-18 01:03:00.721635,Expired
+677,104,UX Design Internship,Internship,Creative Studios Inc,Pune,"₹ 10,000",2026-02-23 01:03:00.721635,Open
+678,104,UX Design Internship,Internship,Creative Studios Inc,"Austin, TX","₹ 10,000",2026-05-09 01:03:00.721635,Open
+679,102,Software Engineer II,Internship,Demo,Pune,₹ 4 LPA,2026-02-13 01:03:00.721635,Open
+680,102,COO,Internship,Demo,Pune,₹ 4 LPA,2026-05-20 01:03:00.721635,Open
+681,103,UX Design Internship,Internship,Demo,"Austin, TX",₹ 4 LPA,2026-05-15 01:03:00.721635,Open
+682,104,Test Engineer Internship,Internship,Demo,Pune,₹ 6 LPA,2026-01-24 01:03:00.721635,Expired
+683,103,COO,Full-time,TCS,SCOE Campus,"₹ 56,546",2026-02-28 01:03:00.721635,Open
+684,102,Software Engineer II,Full-time,Next Electronics,"San Francisco, CA","₹ 56,546",2026-02-22 01:03:00.721635,Open
+685,102,Demigod,Internship,Creative Studios Inc,"Austin, TX","₹ 20,000",2026-05-28 01:03:00.721635,Open
+686,101,Demigod,Full-time,Demo,Narniwadi,"₹ 10,000",2026-03-22 01:03:00.721635,Open
+687,104,UX Design Internship,Internship,Google India,"San Francisco, CA",₹ 6 LPA,2026-03-08 01:03:00.721635,Open
+688,103,Test Engineer Internship,Full-time,TCS,"Austin, TX",₹ 6 LPA,2026-04-10 01:03:00.721635,Open
+689,103,Test Engineer Internship,Internship,TechCorp Pvt Ltd,SCOE Campus,₹ 4 LPA,2026-01-01 01:03:00.721635,Expired
+690,101,Software Engineer,Internship,Google India,Narniwadi,"₹ 56,546",2026-05-17 01:03:00.721635,Open
+691,101,COO,Internship,Creative Studios Inc,SCOE Campus,"₹ 20,000",2026-05-23 01:03:00.721635,Open
+692,104,Software Engineer,Full-time,TechCorp Pvt Ltd,SCOE Campus,"₹ 10,000",2026-04-28 01:03:00.721635,Open
+693,101,Test Engineer Internship,Internship,Next Electronics,"Austin, TX",₹ 4 LPA,2026-02-17 01:03:00.721635,Open
+694,104,Software Engineer,Internship,Next Electronics,SCOE Campus,"₹ 10,000",2026-05-08 01:03:00.721635,Open
+695,102,Test Engineer Internship,Internship,TCS,SCOE Campus,₹ 4 LPA,2026-04-13 01:03:00.721635,Open
+696,101,Software Engineer II,Internship,Demo,SCOE Campus,₹ 6 LPA,2026-04-26 01:03:00.721635,Open
+697,102,UX Design Internship,Internship,Google India,"Austin, TX",₹ 6 LPA,2026-01-23 01:03:00.721635,Expired
+698,104,Software Engineer II,Full-time,TCS,Pune,₹ 6 LPA,2026-01-30 01:03:00.721635,Open
+699,101,UX Design Internship,Internship,TechCorp Pvt Ltd,Narniwadi,₹ 4 LPA,2026-04-16 01:03:00.721635,Open
+700,104,Software Engineer II,Internship,Next Electronics,"Austin, TX","₹ 10,000",2026-02-14 01:03:00.721635,Open
+701,104,Software Engineer,Full-time,Demo,Narniwadi,₹ 6 LPA,2026-03-13 01:03:00.721635,Open
+702,103,Test Engineer Internship,Internship,Next Electronics,"San Francisco, CA","₹ 20,000",2026-04-15 01:03:00.721635,Open
+703,102,Software Engineer,Internship,Next Electronics,Pune,"₹ 20,000",2026-01-31 01:03:00.721635,Open
+704,103,COO,Internship,TCS,"Austin, TX","₹ 20,000",2026-03-03 01:03:00.721635,Open
+705,102,Software Engineer II,Full-time,TechCorp Pvt Ltd,"Austin, TX",₹ 4 LPA,2026-03-31 01:03:00.721635,Open
+706,102,UX Design Internship,Full-time,Demo,Pune,₹ 6 LPA,2026-01-24 01:03:00.721635,Expired
+707,102,Software Engineer II,Full-time,TCS,"Austin, TX","₹ 20,000",2026-01-07 01:03:00.721635,Expired
+708,104,COO,Internship,TCS,Pune,₹ 6 LPA,2026-03-18 01:03:00.721635,Open
+709,102,Demigod,Internship,Demo,"San Francisco, CA",₹ 6 LPA,2026-01-20 01:03:00.721635,Expired
+710,104,Demigod,Full-time,TCS,"San Francisco, CA",₹ 6 LPA,2026-01-16 01:03:00.721635,Expired
+711,101,COO,Internship,Creative Studios Inc,"San Francisco, CA","₹ 10,000",2026-02-10 01:03:00.721635,Open
+712,104,COO,Full-time,Next Electronics,"Austin, TX","₹ 20,000",2026-05-18 01:03:00.721635,Open
+713,102,Demigod,Internship,Next Electronics,"San Francisco, CA","₹ 56,546",2026-01-24 01:03:00.721635,Expired
+714,104,Demigod,Full-time,TCS,Narniwadi,"₹ 10,000",2026-05-26 01:03:00.721635,Open
+715,104,Test Engineer Internship,Full-time,Creative Studios Inc,Pune,"₹ 20,000",2026-01-11 01:03:00.721635,Expired
+716,103,COO,Internship,Next Electronics,Pune,"₹ 56,546",2026-03-28 01:03:00.721635,Open
+717,103,Software Engineer II,Internship,TCS,Pune,"₹ 10,000",2026-04-26 01:03:00.721635,Open
+718,104,Demigod,Internship,Next Electronics,SCOE Campus,"₹ 10,000",2026-05-19 01:03:00.721635,Open
+719,102,Software Engineer II,Internship,Creative Studios Inc,Pune,₹ 4 LPA,2026-05-25 01:03:00.721635,Open
+720,104,Software Engineer II,Internship,TCS,SCOE Campus,"₹ 56,546",2026-04-22 01:03:00.721635,Open
+721,104,Software Engineer II,Internship,Next Electronics,"San Francisco, CA","₹ 56,546",2026-03-12 01:03:00.721635,Open
+722,103,UX Design Internship,Internship,Demo,"Austin, TX","₹ 20,000",2026-01-02 01:03:00.721635,Expired
+723,102,Test Engineer Internship,Internship,Google India,"Austin, TX",₹ 4 LPA,2026-04-08 01:03:00.721635,Open
+724,104,Demigod,Full-time,TechCorp Pvt Ltd,Narniwadi,₹ 4 LPA,2026-03-07 01:03:00.721635,Open
+725,101,Software Engineer II,Full-time,Creative Studios Inc,Narniwadi,"₹ 20,000",2026-04-30 01:03:00.721635,Open
+726,103,Demigod,Internship,Creative Studios Inc,Pune,₹ 4 LPA,2026-04-21 01:03:00.721635,Open
+727,103,Software Engineer,Internship,Next Electronics,"Austin, TX","₹ 20,000",2026-03-09 01:03:00.721635,Open
+728,102,Software Engineer II,Internship,TechCorp Pvt Ltd,"Austin, TX","₹ 20,000",2026-01-23 01:03:00.721635,Expired
+729,102,COO,Internship,TCS,"Austin, TX","₹ 56,546",2026-05-18 01:03:00.721635,Open
+730,102,COO,Full-time,Demo,"San Francisco, CA","₹ 20,000",2026-04-27 01:03:00.721635,Open
+731,103,Software Engineer II,Full-time,TCS,Pune,"₹ 20,000",2026-04-20 01:03:00.721635,Open
+732,103,Test Engineer Internship,Full-time,TCS,"Austin, TX",₹ 6 LPA,2026-02-08 01:03:00.721635,Open
+733,103,UX Design Internship,Full-time,Next Electronics,Narniwadi,₹ 6 LPA,2026-03-03 01:03:00.721635,Open
+734,101,Test Engineer Internship,Full-time,TCS,"San Francisco, CA",₹ 4 LPA,2026-02-21 01:03:00.721635,Open
+735,102,Demigod,Full-time,TCS,SCOE Campus,"₹ 10,000",2026-03-29 01:03:00.721635,Open
+736,104,Software Engineer II,Full-time,Creative Studios Inc,Pune,"₹ 10,000",2026-03-14 01:03:00.721635,Open
+737,103,UX Design Internship,Internship,Google India,SCOE Campus,"₹ 10,000",2026-03-15 01:03:00.721635,Open
+738,104,COO,Internship,TechCorp Pvt Ltd,SCOE Campus,"₹ 20,000",2026-02-28 01:03:00.721635,Open
+739,102,Test Engineer Internship,Internship,Next Electronics,Pune,₹ 4 LPA,2026-01-17 01:03:00.721635,Expired
+740,102,Software Engineer II,Internship,Creative Studios Inc,Narniwadi,₹ 6 LPA,2026-04-20 01:03:00.721635,Open
+741,103,Test Engineer Internship,Full-time,Google India,"Austin, TX",₹ 4 LPA,2026-01-28 01:03:00.721635,Expired
+742,102,UX Design Internship,Internship,Creative Studios Inc,Pune,₹ 6 LPA,2026-01-04 01:03:00.721635,Expired
+743,102,UX Design Internship,Full-time,TechCorp Pvt Ltd,"Austin, TX","₹ 20,000",2026-01-06 01:03:00.721635,Expired
+744,104,Demigod,Full-time,Next Electronics,SCOE Campus,₹ 4 LPA,2026-05-13 01:03:00.721635,Open
+745,102,Software Engineer II,Full-time,Next Electronics,"San Francisco, CA","₹ 10,000",2026-03-15 01:03:00.721635,Open
+746,104,COO,Internship,TCS,"San Francisco, CA","₹ 10,000",2026-03-06 01:03:00.721635,Open
+747,103,COO,Full-time,Demo,"Austin, TX","₹ 10,000",2026-01-24 01:03:00.721635,Expired
+748,104,Test Engineer Internship,Full-time,TechCorp Pvt Ltd,SCOE Campus,"₹ 10,000",2026-01-05 01:03:00.721635,Expired
+749,104,Software Engineer,Internship,Demo,"Austin, TX",₹ 6 LPA,2026-04-01 01:03:00.721635,Open
+750,104,UX Design Internship,Internship,TCS,SCOE Campus,"₹ 20,000",2026-04-06 01:03:00.721635,Open
+751,102,Test Engineer Internship,Full-time,TechCorp Pvt Ltd,SCOE Campus,₹ 4 LPA,2026-05-04 01:03:00.721635,Open
+752,103,Test Engineer Internship,Full-time,Creative Studios Inc,Narniwadi,"₹ 56,546",2026-01-25 01:03:00.721635,Expired
+753,104,Software Engineer II,Full-time,Demo,"San Francisco, CA","₹ 56,546",2026-05-11 01:03:00.721635,Open
+754,103,Demigod,Internship,Creative Studios Inc,"Austin, TX",₹ 4 LPA,2026-02-18 01:03:00.721635,Open
+755,102,Software Engineer,Full-time,TechCorp Pvt Ltd,"Austin, TX","₹ 10,000",2026-02-23 01:03:00.721635,Open
+756,104,UX Design Internship,Internship,Demo,Narniwadi,"₹ 20,000",2026-02-26 01:03:00.721635,Open
+757,104,Software Engineer,Full-time,TCS,"San Francisco, CA","₹ 10,000",2026-01-15 01:03:00.721635,Expired
+758,102,COO,Full-time,Google India,"San Francisco, CA",₹ 4 LPA,2026-04-01 01:03:00.721635,Open
+759,102,COO,Internship,Google India,"San Francisco, CA","₹ 10,000",2026-04-10 01:03:00.721635,Open
+760,103,UX Design Internship,Internship,Google India,Pune,"₹ 20,000",2026-01-18 01:03:00.721635,Expired
+761,103,UX Design Internship,Internship,Demo,Narniwadi,"₹ 20,000",2025-12-31 01:03:00.721635,Expired
+762,101,Test Engineer Internship,Full-time,TCS,SCOE Campus,₹ 6 LPA,2026-02-05 01:03:00.721635,Open
+763,104,Demigod,Internship,Creative Studios Inc,"Austin, TX",₹ 6 LPA,2026-05-08 01:03:00.721635,Open
+764,104,COO,Full-time,Google India,"Austin, TX","₹ 10,000",2026-01-17 01:03:00.721635,Expired
+765,101,UX Design Internship,Full-time,Next Electronics,SCOE Campus,"₹ 56,546",2026-03-07 01:03:00.721635,Open
+766,101,Test Engineer Internship,Full-time,Next Electronics,Pune,₹ 4 LPA,2026-05-18 01:03:00.721635,Open
+767,102,Software Engineer II,Full-time,TCS,"San Francisco, CA",₹ 6 LPA,2026-03-06 01:03:00.721635,Open
+768,103,UX Design Internship,Full-time,TechCorp Pvt Ltd,Pune,₹ 4 LPA,2026-05-03 01:03:00.721635,Open
+769,101,Software Engineer,Full-time,Creative Studios Inc,Narniwadi,₹ 6 LPA,2026-03-30 01:03:00.721635,Open
+770,103,Test Engineer Internship,Internship,Google India,SCOE Campus,"₹ 20,000",2026-02-03 01:03:00.721635,Open
+771,101,Software Engineer,Internship,Creative Studios Inc,Pune,₹ 4 LPA,2026-05-16 01:03:00.721635,Open
+772,102,Software Engineer II,Full-time,TechCorp Pvt Ltd,"Austin, TX","₹ 56,546",2026-02-26 01:03:00.721635,Open
+773,101,Demigod,Full-time,TCS,Pune,"₹ 56,546",2026-04-02 01:03:00.721635,Open
+774,101,COO,Full-time,TechCorp Pvt Ltd,"San Francisco, CA","₹ 20,000",2026-01-28 01:03:00.721635,Expired
+775,102,Software Engineer,Internship,TCS,SCOE Campus,₹ 4 LPA,2026-02-23 01:03:00.721635,Open
+776,103,Software Engineer II,Internship,Next Electronics,SCOE Campus,₹ 6 LPA,2026-03-22 01:03:00.721635,Open
+777,102,Test Engineer Internship,Full-time,TCS,Narniwadi,₹ 6 LPA,2026-04-19 01:03:00.721635,Open
+778,103,UX Design Internship,Internship,Next Electronics,"Austin, TX","₹ 56,546",2026-03-19 01:03:00.721635,Open
+779,101,Test Engineer Internship,Internship,Google India,"San Francisco, CA","₹ 10,000",2026-01-26 01:03:00.721635,Expired
+780,103,COO,Full-time,Creative Studios Inc,"Austin, TX","₹ 56,546",2026-03-21 01:03:00.721635,Open
+781,101,Software Engineer,Internship,TechCorp Pvt Ltd,Pune,"₹ 56,546",2026-02-04 01:03:00.721635,Open
+782,102,Test Engineer Internship,Full-time,TCS,Narniwadi,"₹ 56,546",2026-01-29 01:03:00.721635,Expired
+783,102,Test Engineer Internship,Full-time,Creative Studios Inc,"San Francisco, CA","₹ 10,000",2026-03-06 01:03:00.721635,Open
+784,102,Demigod,Full-time,Next Electronics,"San Francisco, CA",₹ 4 LPA,2026-03-20 01:03:00.721635,Open
+785,101,Software Engineer II,Full-time,Creative Studios Inc,"San Francisco, CA",₹ 4 LPA,2026-04-05 01:03:00.721635,Open
+786,102,Demigod,Internship,Google India,"San Francisco, CA","₹ 10,000",2026-02-21 01:03:00.721635,Open
+787,102,UX Design Internship,Full-time,Next Electronics,Pune,"₹ 10,000",2026-02-15 01:03:00.721635,Open
+788,104,Test Engineer Internship,Internship,Google India,Pune,₹ 6 LPA,2026-03-29 01:03:00.721635,Open
+789,101,UX Design Internship,Full-time,TechCorp Pvt Ltd,"Austin, TX","₹ 56,546",2026-01-28 01:03:00.721635,Expired
+790,101,UX Design Internship,Internship,TCS,Narniwadi,"₹ 10,000",2026-01-18 01:03:00.721635,Expired
+791,101,COO,Full-time,Google India,SCOE Campus,₹ 4 LPA,2026-03-31 01:03:00.721635,Open
+792,104,Software Engineer II,Internship,Google India,"San Francisco, CA","₹ 56,546",2026-03-01 01:03:00.721635,Open
+793,101,Software Engineer,Full-time,TCS,Pune,₹ 6 LPA,2026-01-23 01:03:00.721635,Expired
+794,103,Software Engineer II,Internship,Demo,"Austin, TX","₹ 10,000",2026-04-26 01:03:00.721635,Open
+795,104,UX Design Internship,Internship,Demo,"Austin, TX","₹ 10,000",2026-01-03 01:03:00.721635,Expired
+796,103,Software Engineer,Internship,Demo,Pune,"₹ 20,000",2026-05-14 01:03:00.721635,Open
+797,101,COO,Full-time,TechCorp Pvt Ltd,"Austin, TX","₹ 56,546",2026-02-27 01:03:00.721635,Open
+798,101,COO,Internship,Creative Studios Inc,Narniwadi,"₹ 20,000",2026-02-02 01:03:00.721635,Open
+799,104,UX Design Internship,Internship,Demo,"Austin, TX","₹ 10,000",2026-02-08 01:03:00.721635,Open
+800,101,Demigod,Full-time,Next Electronics,Pune,"₹ 20,000",2026-03-27 01:03:00.721635,Open
+801,101,Test Engineer Internship,Internship,TechCorp Pvt Ltd,"Austin, TX",₹ 4 LPA,2026-04-04 01:03:00.721635,Open
+802,102,Demigod,Internship,Google India,SCOE Campus,₹ 4 LPA,2026-02-12 01:03:00.721635,Open
+803,102,COO,Internship,Creative Studios Inc,SCOE Campus,"₹ 20,000",2026-05-18 01:03:00.721635,Open
+804,104,Software Engineer II,Internship,TCS,SCOE Campus,"₹ 10,000",2026-02-28 01:03:00.721635,Open
+805,104,Software Engineer II,Internship,TechCorp Pvt Ltd,Narniwadi,₹ 6 LPA,2026-04-04 01:03:00.721635,Open
+806,103,UX Design Internship,Full-time,Google India,"San Francisco, CA",₹ 4 LPA,2026-01-02 01:03:00.721635,Expired
+807,103,Software Engineer,Internship,Google India,Narniwadi,₹ 6 LPA,2026-03-10 01:03:00.721635,Open
+808,101,Software Engineer,Full-time,Next Electronics,"Austin, TX","₹ 20,000",2026-04-25 01:03:00.721635,Open
+809,102,Demigod,Internship,TechCorp Pvt Ltd,Pune,₹ 4 LPA,2026-02-11 01:03:00.721635,Open
+810,102,Demigod,Full-time,Creative Studios Inc,"San Francisco, CA","₹ 20,000",2026-04-28 01:03:00.721635,Open
+811,101,Software Engineer II,Full-time,Google India,Pune,"₹ 56,546",2026-01-12 01:03:00.721635,Expired
+812,101,Software Engineer,Internship,TechCorp Pvt Ltd,SCOE Campus,₹ 6 LPA,2026-05-11 01:03:00.721635,Open
+813,104,UX Design Internship,Internship,Demo,Narniwadi,₹ 4 LPA,2026-04-09 01:03:00.721635,Open
+814,103,COO,Full-time,TechCorp Pvt Ltd,Narniwadi,"₹ 20,000",2026-04-28 01:03:00.721635,Open
+815,104,UX Design Internship,Internship,Demo,"San Francisco, CA",₹ 4 LPA,2026-04-24 01:03:00.721635,Open
+816,102,Software Engineer,Full-time,Creative Studios Inc,Narniwadi,₹ 4 LPA,2026-02-01 01:03:00.721635,Open
+817,101,Demigod,Full-time,Creative Studios Inc,Narniwadi,"₹ 20,000",2026-04-01 01:03:00.721635,Open
+818,104,Software Engineer II,Internship,Google India,"San Francisco, CA",₹ 6 LPA,2026-05-16 01:03:00.721635,Open
+819,101,Software Engineer,Internship,TCS,Narniwadi,"₹ 10,000",2026-02-16 01:03:00.721635,Open
+820,103,Demigod,Internship,TCS,Pune,"₹ 20,000",2026-03-16 01:03:00.721635,Open
+821,102,Software Engineer II,Internship,TCS,Pune,"₹ 20,000",2026-01-14 01:03:00.721635,Expired
+822,104,UX Design Internship,Full-time,TCS,Pune,₹ 6 LPA,2026-01-25 01:03:00.721635,Expired
+823,104,COO,Internship,TechCorp Pvt Ltd,SCOE Campus,"₹ 10,000",2026-01-14 01:03:00.721635,Expired
+824,103,Software Engineer II,Full-time,Next Electronics,SCOE Campus,"₹ 10,000",2026-02-03 01:03:00.721635,Open
+825,102,Software Engineer II,Internship,Google India,"Austin, TX",₹ 6 LPA,2026-03-24 01:03:00.721635,Open
+826,101,Demigod,Full-time,Demo,Narniwadi,₹ 6 LPA,2026-01-24 01:03:00.721635,Expired
+827,104,Demigod,Full-time,Demo,"San Francisco, CA","₹ 20,000",2026-05-17 01:03:00.721635,Open
+828,102,Software Engineer II,Internship,Google India,Pune,"₹ 20,000",2026-04-28 01:03:00.721635,Open
+829,104,Software Engineer II,Internship,TCS,Pune,"₹ 56,546",2026-02-14 01:03:00.721635,Open
+830,102,Demigod,Internship,Demo,SCOE Campus,"₹ 20,000",2026-01-19 01:03:00.721635,Expired
+831,104,Software Engineer II,Full-time,Google India,SCOE Campus,₹ 6 LPA,2026-01-02 01:03:00.721635,Expired
+832,104,COO,Full-time,TCS,SCOE Campus,"₹ 10,000",2026-01-14 01:03:00.721635,Expired
+833,101,Software Engineer II,Full-time,Creative Studios Inc,"Austin, TX","₹ 20,000",2026-04-15 01:03:00.721635,Open
+834,104,COO,Full-time,Demo,"San Francisco, CA",₹ 6 LPA,2026-02-25 01:03:00.721635,Open
+835,104,COO,Full-time,TechCorp Pvt Ltd,"San Francisco, CA",₹ 6 LPA,2026-04-28 01:03:00.721635,Open
+836,103,Demigod,Full-time,Next Electronics,"Austin, TX","₹ 20,000",2026-01-07 01:03:00.721635,Expired
+837,103,UX Design Internship,Full-time,Next Electronics,"San Francisco, CA",₹ 4 LPA,2026-01-15 01:03:00.721635,Expired
+838,102,UX Design Internship,Internship,TechCorp Pvt Ltd,SCOE Campus,"₹ 10,000",2026-04-08 01:03:00.721635,Open
+839,102,Software Engineer II,Full-time,Google India,Pune,"₹ 20,000",2026-05-01 01:03:00.721635,Open
+840,104,UX Design Internship,Full-time,Google India,"San Francisco, CA","₹ 10,000",2026-03-29 01:03:00.721635,Open
+841,102,Software Engineer II,Full-time,Next Electronics,Pune,"₹ 20,000",2026-04-12 01:03:00.721635,Open
+842,101,Test Engineer Internship,Internship,TechCorp Pvt Ltd,"Austin, TX",₹ 4 LPA,2026-04-03 01:03:00.721635,Open
+843,101,Demigod,Internship,Next Electronics,Pune,"₹ 10,000",2026-04-18 01:03:00.721635,Open
+844,102,Test Engineer Internship,Internship,Demo,"San Francisco, CA",₹ 6 LPA,2026-05-01 01:03:00.721635,Open
+845,102,Demigod,Full-time,Google India,Narniwadi,"₹ 56,546",2026-04-07 01:03:00.721635,Open
+846,103,COO,Internship,TCS,Narniwadi,"₹ 20,000",2026-03-29 01:03:00.721635,Open
+847,104,UX Design Internship,Full-time,TCS,"San Francisco, CA","₹ 20,000",2026-01-14 01:03:00.721635,Expired
+848,104,COO,Internship,TCS,Narniwadi,₹ 4 LPA,2026-01-06 01:03:00.721635,Expired
+849,102,Software Engineer,Full-time,Next Electronics,Pune,₹ 6 LPA,2026-01-26 01:03:00.721635,Expired
+850,101,Software Engineer,Full-time,Demo,Pune,"₹ 20,000",2026-01-08 01:03:00.721635,Expired
+851,103,COO,Internship,TCS,Pune,₹ 6 LPA,2026-04-04 01:03:00.721635,Open
+852,101,COO,Internship,Next Electronics,"Austin, TX","₹ 10,000",2026-05-06 01:03:00.721635,Open
+853,103,Software Engineer,Internship,Demo,Pune,"₹ 10,000",2026-02-25 01:03:00.721635,Open
+854,101,Test Engineer Internship,Full-time,TechCorp Pvt Ltd,Pune,"₹ 10,000",2026-04-21 01:03:00.721635,Open
+855,104,Test Engineer Internship,Full-time,TCS,"San Francisco, CA","₹ 56,546",2026-04-16 01:03:00.721635,Open
+856,102,Test Engineer Internship,Internship,Google India,"San Francisco, CA","₹ 56,546",2026-04-27 01:03:00.721635,Open
+857,101,Test Engineer Internship,Internship,Google India,SCOE Campus,₹ 6 LPA,2026-04-17 01:03:00.721635,Open
+858,104,Software Engineer II,Full-time,Google India,"San Francisco, CA","₹ 56,546",2026-04-24 01:03:00.721635,Open
+859,103,Software Engineer II,Internship,Demo,Narniwadi,₹ 6 LPA,2026-01-03 01:03:00.721635,Expired
+860,101,COO,Internship,Creative Studios Inc,"Austin, TX","₹ 20,000",2026-04-27 01:03:00.721635,Open
+861,104,COO,Full-time,TechCorp Pvt Ltd,Pune,"₹ 56,546",2026-05-23 01:03:00.721635,Open
+862,101,Software Engineer,Full-time,Creative Studios Inc,"San Francisco, CA","₹ 20,000",2026-02-11 01:03:00.721635,Open
+863,103,Test Engineer Internship,Full-time,Demo,"San Francisco, CA",₹ 4 LPA,2026-01-17 01:03:00.721635,Expired
+864,103,UX Design Internship,Full-time,Creative Studios Inc,Narniwadi,"₹ 20,000",2026-03-16 01:03:00.721635,Open
+865,102,Software Engineer,Full-time,Creative Studios Inc,SCOE Campus,"₹ 56,546",2026-03-16 01:03:00.721635,Open
+866,101,Test Engineer Internship,Full-time,TCS,"Austin, TX","₹ 10,000",2026-02-06 01:03:00.721635,Open
+867,102,Test Engineer Internship,Internship,Google India,"Austin, TX","₹ 10,000",2026-05-02 01:03:00.721635,Open
+868,103,Demigod,Internship,Next Electronics,"Austin, TX",₹ 6 LPA,2026-03-30 01:03:00.721635,Open
+869,102,Demigod,Internship,Google India,"San Francisco, CA","₹ 10,000",2026-05-01 01:03:00.721635,Open
+870,104,COO,Internship,Creative Studios Inc,"San Francisco, CA","₹ 10,000",2026-05-15 01:03:00.721635,Open
+871,104,Test Engineer Internship,Full-time,Google India,Pune,₹ 6 LPA,2026-01-27 01:03:00.721635,Expired
+872,101,Software Engineer,Full-time,TechCorp Pvt Ltd,Pune,"₹ 10,000",2026-01-04 01:03:00.721635,Expired
+873,101,UX Design Internship,Internship,TCS,"Austin, TX",₹ 4 LPA,2026-05-05 01:03:00.721635,Open
+874,102,COO,Internship,TCS,"San Francisco, CA",₹ 4 LPA,2026-03-23 01:03:00.721635,Open
+875,102,COO,Internship,TechCorp Pvt Ltd,Narniwadi,"₹ 10,000",2026-03-31 01:03:00.721635,Open
+876,103,COO,Internship,Next Electronics,SCOE Campus,₹ 6 LPA,2026-01-02 01:03:00.721635,Expired
+877,102,Demigod,Full-time,TechCorp Pvt Ltd,SCOE Campus,₹ 4 LPA,2026-05-24 01:03:00.721635,Open
+878,102,COO,Full-time,TCS,SCOE Campus,"₹ 20,000",2026-04-02 01:03:00.721635,Open
+879,103,UX Design Internship,Full-time,Demo,"Austin, TX",₹ 6 LPA,2026-05-14 01:03:00.721635,Open
+880,103,UX Design Internship,Internship,Next Electronics,SCOE Campus,₹ 6 LPA,2026-03-25 01:03:00.721635,Open
+881,104,UX Design Internship,Internship,TechCorp Pvt Ltd,"San Francisco, CA","₹ 10,000",2026-04-04 01:03:00.721635,Open
+882,103,Demigod,Internship,Demo,"San Francisco, CA","₹ 10,000",2026-04-04 01:03:00.721635,Open
+883,102,Demigod,Internship,Demo,"Austin, TX",₹ 6 LPA,2026-04-24 01:03:00.721635,Open
+884,104,UX Design Internship,Full-time,TechCorp Pvt Ltd,SCOE Campus,"₹ 20,000",2026-03-26 01:03:00.721635,Open
+885,102,Demigod,Internship,Next Electronics,Narniwadi,"₹ 10,000",2026-05-11 01:03:00.721635,Open
+886,101,COO,Full-time,Demo,Pune,"₹ 10,000",2026-02-12 01:03:00.721635,Open
+887,101,UX Design Internship,Full-time,Creative Studios Inc,Pune,"₹ 10,000",2026-03-08 01:03:00.721635,Open
+888,103,UX Design Internship,Internship,Next Electronics,SCOE Campus,₹ 6 LPA,2026-03-04 01:03:00.721635,Open
+889,104,UX Design Internship,Internship,Google India,Pune,₹ 6 LPA,2026-03-08 01:03:00.721635,Open
+890,102,Software Engineer,Full-time,Google India,"Austin, TX",₹ 6 LPA,2026-01-20 01:03:00.721635,Expired
+891,102,Software Engineer II,Full-time,TechCorp Pvt Ltd,SCOE Campus,₹ 4 LPA,2026-04-06 01:03:00.721635,Open
+892,102,Test Engineer Internship,Full-time,Google India,SCOE Campus,₹ 6 LPA,2026-04-21 01:03:00.721635,Open
+893,104,COO,Full-time,TechCorp Pvt Ltd,"Austin, TX",₹ 6 LPA,2026-05-11 01:03:00.721635,Open
+894,101,Software Engineer,Full-time,TechCorp Pvt Ltd,Pune,₹ 4 LPA,2026-04-21 01:03:00.721635,Open
+895,104,COO,Internship,Next Electronics,Narniwadi,"₹ 56,546",2026-03-17 01:03:00.721635,Open
+896,104,UX Design Internship,Internship,Google India,Narniwadi,"₹ 20,000",2026-01-23 01:03:00.721635,Expired
+897,102,COO,Full-time,Demo,"San Francisco, CA","₹ 10,000",2026-02-25 01:03:00.721635,Open
+898,104,COO,Full-time,Demo,"Austin, TX",₹ 4 LPA,2026-05-02 01:03:00.721635,Open
+899,104,COO,Full-time,Google India,Narniwadi,₹ 6 LPA,2026-05-19 01:03:00.721635,Open
+900,102,COO,Internship,Next Electronics,Narniwadi,"₹ 56,546",2026-03-29 01:03:00.721635,Open
+901,101,UX Design Internship,Full-time,Creative Studios Inc,Pune,"₹ 56,546",2026-01-13 01:03:00.721635,Expired
+902,102,Test Engineer Internship,Internship,Demo,"Austin, TX","₹ 56,546",2026-04-20 01:03:00.721635,Open
+903,103,Demigod,Internship,Demo,Pune,"₹ 10,000",2026-04-13 01:03:00.721635,Open
+904,104,Software Engineer,Internship,Creative Studios Inc,Narniwadi,₹ 6 LPA,2026-05-04 01:03:00.721635,Open
+905,103,UX Design Internship,Full-time,TCS,Pune,"₹ 20,000",2026-01-04 01:03:00.721635,Expired
+906,101,Software Engineer,Full-time,Next Electronics,"Austin, TX","₹ 56,546",2026-03-29 01:03:00.721635,Open
+907,103,COO,Internship,Creative Studios Inc,"San Francisco, CA","₹ 10,000",2026-05-09 01:03:00.721635,Open
+908,104,Software Engineer II,Internship,Next Electronics,"San Francisco, CA",₹ 6 LPA,2026-02-08 01:03:00.721635,Open
+909,104,COO,Full-time,TechCorp Pvt Ltd,Pune,"₹ 10,000",2026-02-13 01:03:00.721635,Open
+910,102,Demigod,Full-time,TechCorp Pvt Ltd,Pune,"₹ 56,546",2026-03-07 01:03:00.721635,Open
+911,104,Demigod,Internship,Creative Studios Inc,"San Francisco, CA",₹ 6 LPA,2026-05-29 01:03:00.721635,Open
+912,104,Software Engineer II,Full-time,Creative Studios Inc,Pune,"₹ 20,000",2026-03-06 01:03:00.721635,Open
+913,102,COO,Internship,TechCorp Pvt Ltd,"Austin, TX",₹ 6 LPA,2026-04-18 01:03:00.721635,Open
+914,102,Demigod,Internship,Demo,Narniwadi,"₹ 56,546",2026-05-25 01:03:00.721635,Open
+915,103,COO,Full-time,TCS,Narniwadi,"₹ 20,000",2026-04-13 01:03:00.721635,Open
+916,101,Software Engineer II,Full-time,TCS,Pune,"₹ 56,546",2026-04-17 01:03:00.721635,Open
+917,104,Test Engineer Internship,Internship,Demo,Pune,₹ 4 LPA,2026-02-02 01:03:00.721635,Open
+918,104,Software Engineer II,Full-time,Demo,"San Francisco, CA","₹ 56,546",2026-04-17 01:03:00.721635,Open
+919,103,Test Engineer Internship,Internship,TechCorp Pvt Ltd,Narniwadi,₹ 6 LPA,2026-01-15 01:03:00.721635,Expired
+920,101,Software Engineer II,Internship,Creative Studios Inc,"Austin, TX",₹ 4 LPA,2026-01-28 01:03:00.721635,Expired
+921,103,Software Engineer,Internship,Next Electronics,Pune,"₹ 10,000",2026-04-07 01:03:00.721635,Open
+922,101,Test Engineer Internship,Full-time,Creative Studios Inc,SCOE Campus,₹ 6 LPA,2026-05-13 01:03:00.721635,Open
+923,104,Demigod,Internship,TechCorp Pvt Ltd,Narniwadi,"₹ 56,546",2026-05-15 01:03:00.721635,Open
+924,101,COO,Full-time,TechCorp Pvt Ltd,Narniwadi,₹ 4 LPA,2026-05-26 01:03:00.721635,Open
+925,101,Software Engineer II,Full-time,Google India,Pune,"₹ 56,546",2026-01-18 01:03:00.721635,Expired
+926,104,Software Engineer II,Internship,Creative Studios Inc,SCOE Campus,"₹ 56,546",2026-02-15 01:03:00.721635,Open
+927,101,Test Engineer Internship,Full-time,TechCorp Pvt Ltd,"Austin, TX","₹ 10,000",2026-05-01 01:03:00.721635,Open
+928,104,UX Design Internship,Internship,TechCorp Pvt Ltd,Pune,₹ 6 LPA,2026-04-16 01:03:00.721635,Open
+929,103,Test Engineer Internship,Internship,TechCorp Pvt Ltd,"Austin, TX",₹ 6 LPA,2026-04-28 01:03:00.721635,Open
+930,101,UX Design Internship,Full-time,TCS,"Austin, TX",₹ 6 LPA,2026-01-21 01:03:00.721635,Expired
+931,102,Demigod,Internship,Demo,SCOE Campus,"₹ 10,000",2026-02-08 01:03:00.721635,Open
+932,104,Software Engineer,Full-time,Google India,"San Francisco, CA","₹ 56,546",2026-05-25 01:03:00.721635,Open
+933,103,UX Design Internship,Full-time,Demo,SCOE Campus,"₹ 20,000",2026-05-25 01:03:00.721635,Open
+934,104,COO,Internship,Creative Studios Inc,Pune,₹ 6 LPA,2026-04-21 01:03:00.721635,Open
+935,101,Demigod,Internship,TCS,SCOE Campus,₹ 4 LPA,2026-01-25 01:03:00.721635,Expired
+936,104,Software Engineer,Full-time,TCS,SCOE Campus,₹ 4 LPA,2026-04-25 01:03:00.721635,Open
+937,104,Demigod,Internship,Creative Studios Inc,"San Francisco, CA","₹ 10,000",2026-01-27 01:03:00.721635,Expired
+938,104,Software Engineer II,Internship,TCS,"San Francisco, CA",₹ 4 LPA,2026-04-20 01:03:00.721635,Open
+939,102,Software Engineer,Internship,TCS,"San Francisco, CA","₹ 20,000",2026-04-22 01:03:00.721635,Open
+940,103,COO,Internship,TCS,"Austin, TX",₹ 6 LPA,2026-04-29 01:03:00.721635,Open
+941,104,Test Engineer Internship,Internship,Next Electronics,Pune,"₹ 56,546",2026-04-21 01:03:00.721635,Open
+942,101,Demigod,Internship,TCS,Pune,"₹ 20,000",2026-04-21 01:03:00.721635,Open
+943,101,Software Engineer II,Internship,TCS,Narniwadi,"₹ 20,000",2026-04-18 01:03:00.721635,Open
+944,104,Software Engineer II,Full-time,Next Electronics,Pune,₹ 6 LPA,2026-03-22 01:03:00.721635,Open
+945,104,Software Engineer,Full-time,TechCorp Pvt Ltd,"Austin, TX",₹ 4 LPA,2026-05-04 01:03:00.721635,Open
+946,104,Demigod,Internship,Demo,Pune,₹ 6 LPA,2026-04-26 01:03:00.721635,Open
+947,104,Software Engineer II,Full-time,TCS,"Austin, TX",₹ 6 LPA,2026-03-23 01:03:00.721635,Open
+948,101,Software Engineer,Full-time,TCS,"San Francisco, CA",₹ 6 LPA,2026-05-19 01:03:00.721635,Open
+949,104,Demigod,Internship,Demo,"Austin, TX","₹ 10,000",2026-04-08 01:03:00.721635,Open
+950,104,Software Engineer,Internship,Creative Studios Inc,"Austin, TX",₹ 6 LPA,2026-02-28 01:03:00.721635,Open
+951,102,Test Engineer Internship,Internship,TCS,"San Francisco, CA","₹ 56,546",2026-04-11 01:03:00.721635,Open
+952,104,Software Engineer II,Full-time,TechCorp Pvt Ltd,"Austin, TX","₹ 20,000",2026-05-14 01:03:00.721635,Open
+953,104,Software Engineer,Internship,Google India,Pune,"₹ 20,000",2026-01-22 01:03:00.721635,Expired
+954,102,Demigod,Full-time,Google India,Narniwadi,₹ 6 LPA,2026-03-09 01:03:00.721635,Open
+955,101,Test Engineer Internship,Full-time,TechCorp Pvt Ltd,"San Francisco, CA",₹ 4 LPA,2026-01-23 01:03:00.721635,Expired
+956,102,UX Design Internship,Full-time,Demo,Narniwadi,"₹ 20,000",2026-03-01 01:03:00.721635,Open
+957,103,UX Design Internship,Internship,Demo,Pune,₹ 6 LPA,2026-03-22 01:03:00.721635,Open
+958,102,Demigod,Full-time,TechCorp Pvt Ltd,SCOE Campus,₹ 4 LPA,2026-03-19 01:03:00.721635,Open
+959,104,Software Engineer II,Internship,TechCorp Pvt Ltd,SCOE Campus,"₹ 20,000",2026-01-08 01:03:00.721635,Expired
+960,103,Software Engineer II,Internship,TechCorp Pvt Ltd,Pune,"₹ 56,546",2026-04-27 01:03:00.721635,Open
+961,103,Test Engineer Internship,Full-time,Google India,SCOE Campus,"₹ 10,000",2026-03-31 01:03:00.721635,Open
+962,101,Demigod,Full-time,Demo,Narniwadi,"₹ 10,000",2026-04-14 01:03:00.721635,Open
+963,103,Test Engineer Internship,Internship,TCS,SCOE Campus,"₹ 56,546",2026-04-24 01:03:00.722686,Open
+964,102,Demigod,Internship,TechCorp Pvt Ltd,SCOE Campus,"₹ 56,546",2026-03-03 01:03:00.722686,Open
+965,103,Software Engineer II,Full-time,TCS,"San Francisco, CA","₹ 56,546",2026-05-09 01:03:00.722686,Open
+966,103,COO,Full-time,Next Electronics,"Austin, TX",₹ 6 LPA,2026-04-01 01:03:00.722686,Open
+967,103,COO,Full-time,Creative Studios Inc,SCOE Campus,"₹ 10,000",2026-03-24 01:03:00.722686,Open
+968,104,Software Engineer,Full-time,TCS,"Austin, TX","₹ 20,000",2026-05-26 01:03:00.722686,Open
+969,101,Software Engineer II,Full-time,TechCorp Pvt Ltd,"San Francisco, CA",₹ 4 LPA,2026-03-22 01:03:00.722686,Open
+970,104,UX Design Internship,Internship,TCS,Pune,₹ 4 LPA,2026-05-14 01:03:00.722686,Open
+971,102,UX Design Internship,Internship,Next Electronics,Pune,₹ 4 LPA,2026-02-05 01:03:00.722686,Open
+972,104,Demigod,Internship,TCS,"San Francisco, CA","₹ 10,000",2026-04-20 01:03:00.722686,Open
+973,103,Test Engineer Internship,Full-time,Google India,"Austin, TX",₹ 4 LPA,2026-02-07 01:03:00.722686,Open
+974,104,Software Engineer,Internship,TCS,SCOE Campus,"₹ 10,000",2026-02-13 01:03:00.722686,Open
+975,101,Software Engineer II,Full-time,Next Electronics,Pune,"₹ 20,000",2026-01-28 01:03:00.722686,Expired
+976,102,Test Engineer Internship,Full-time,Creative Studios Inc,SCOE Campus,₹ 4 LPA,2026-05-21 01:03:00.722686,Open
+977,103,Software Engineer,Full-time,Creative Studios Inc,SCOE Campus,₹ 4 LPA,2026-04-19 01:03:00.722686,Open
+978,101,COO,Internship,TechCorp Pvt Ltd,SCOE Campus,"₹ 56,546",2026-05-16 01:03:00.722686,Open
+979,101,Test Engineer Internship,Internship,TCS,"Austin, TX",₹ 6 LPA,2026-05-24 01:03:00.722686,Open
+980,102,Demigod,Full-time,Demo,SCOE Campus,"₹ 10,000",2026-05-27 01:03:00.722686,Open
+981,104,UX Design Internship,Full-time,Demo,"Austin, TX",₹ 4 LPA,2026-03-08 01:03:00.722686,Open
+982,103,UX Design Internship,Full-time,Google India,Pune,"₹ 10,000",2026-03-28 01:03:00.722686,Open
+983,101,Demigod,Internship,TechCorp Pvt Ltd,Narniwadi,₹ 6 LPA,2026-02-10 01:03:00.722686,Open
+984,102,COO,Full-time,TechCorp Pvt Ltd,"Austin, TX","₹ 10,000",2025-12-31 01:03:00.722686,Expired
+985,102,Test Engineer Internship,Full-time,Creative Studios Inc,Narniwadi,"₹ 56,546",2026-03-11 01:03:00.722686,Open
+986,102,Test Engineer Internship,Internship,TCS,"San Francisco, CA","₹ 10,000",2026-02-05 01:03:00.722686,Open
+987,103,COO,Internship,Next Electronics,"San Francisco, CA","₹ 20,000",2026-04-09 01:03:00.722686,Open
+988,103,Software Engineer,Full-time,Demo,"San Francisco, CA","₹ 56,546",2026-04-18 01:03:00.722686,Open
+989,104,COO,Full-time,Demo,Narniwadi,"₹ 56,546",2026-05-14 01:03:00.722686,Open
+990,102,Software Engineer II,Internship,TCS,Narniwadi,₹ 6 LPA,2026-01-09 01:03:00.722686,Expired
+991,102,Software Engineer,Full-time,TCS,"San Francisco, CA","₹ 10,000",2026-02-10 01:03:00.722686,Open
+992,101,Test Engineer Internship,Internship,TCS,Narniwadi,"₹ 56,546",2026-01-17 01:03:00.722686,Expired
+993,103,Software Engineer,Internship,Demo,Narniwadi,₹ 6 LPA,2026-02-11 01:03:00.722686,Open
+994,101,Software Engineer II,Full-time,Demo,Narniwadi,₹ 4 LPA,2026-03-28 01:03:00.722686,Open
+995,101,Software Engineer,Internship,TCS,Pune,"₹ 20,000",2026-04-29 01:03:00.722686,Open
+996,101,COO,Internship,TechCorp Pvt Ltd,Pune,"₹ 20,000",2026-04-04 01:03:00.722686,Open
+997,104,Software Engineer,Internship,TechCorp Pvt Ltd,Pune,"₹ 10,000",2026-04-08 01:03:00.722686,Open
+998,102,COO,Internship,Creative Studios Inc,Narniwadi,₹ 6 LPA,2026-01-21 01:03:00.722686,Expired
+999,104,Software Engineer II,Internship,Demo,SCOE Campus,"₹ 10,000",2026-03-16 01:03:00.722686,Open
+1000,101,COO,Full-time,Next Electronics,"Austin, TX",₹ 4 LPA,2026-02-19 01:03:00.722686,Open

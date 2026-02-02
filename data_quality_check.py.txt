@@ -1,0 +1,41 @@
+import pandas as pd 
+from datetime import datetime
+
+df = pd.read_csv("events.csv")
+
+missing_values = df.isnull().sum()
+total_missing = missing_values.sum()
+
+duplicate_rows = df.duplicated().sum()
+
+date_columns = ["start_date", "end_date", "created_at", "updated_at"]
+invalid_dates = 0
+
+for col in date_columns:
+    if col in df.columns:
+        df[col] = pd.to_datetime(df[col], errors="coerce")
+        invalid_dates += df[col].isna().sum()
+
+invalid_date_order = 0
+if "start_date" in df.columns and "end_date" in df.columns:
+    invalid_date_order = (df["end_date"] < df["start_date"]).sum()
+
+quality_report = pd.DataFrame({
+    "check_name": [
+        "Total Records",
+        "Missing Values",
+        "Duplicate Records",
+        "Invalid Timestamps",
+        "End Date Before Start Date"
+    ],
+    "issue_count": [
+        len(df),
+        total_missing,
+        duplicate_rows,
+        invalid_dates,
+        invalid_date_order
+    ]
+})
+
+quality_report.to_csv("data_quality_report.csv", index=False)
+print("Data quality report created successfully!")
